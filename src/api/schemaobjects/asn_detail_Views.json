@@ -1,0 +1,7 @@
+[
+{ "ViewName": "UVW_ASN_DETAIL" },
+{ "ViewName": "UVW_IN_ASN_DETAIL_ORDER_LINE_ITEM_ID" },
+{ "ViewName": "UVW_IN_ASN_DETAIL_PURCHASE_ORDERS_LINE_ITEM_ID" },
+{ "ViewName": "UVW_IN_ASN_DETAIL_SKU_ID" },
+{ "ViewName": "UVW_IN_ASN_DETAIL_SKU_NAME"}
+]

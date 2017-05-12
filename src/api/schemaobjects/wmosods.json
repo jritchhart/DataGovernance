@@ -1,0 +1,2998 @@
+[
+{
+"schema": "WMOSODS ",
+"tabname": "ASN_DETAIL",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 111,
+"rows": 28438
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ASN_DETAIL_STATUS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 13,
+"rows": 49
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ASN_LEVEL",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 15,
+"rows": 21
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ASN_STATUS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 15,
+"rows": 56
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ASN_TYPE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 15,
+"rows": 21
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "CD_MASTER",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 20,
+"rows": 23662
+}
+,
+{
+"schema": "WMOSODS ",
+"tabname": "DO_STATUS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 13,
+"rows": 119
+}
+, 
+{
+"schema": "WMOSODS ",
+"tabname": "DO_TYPE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 13,
+"rows": 56
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "FROZN_INVN_CONFIG",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 38,
+"rows": 194585
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "FROZN_INVN_DTL",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 32,
+"rows": 96181
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "FROZN_INVN_HDR",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 41,
+"rows": 194887
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ILM_APPOINTMENT_OBJECTS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 19,
+"rows": 1405
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ILM_APPOINTMENT_TYPE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 15,
+"rows": 49
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "INVN_VARI_HDR",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 50,
+"rows": 351
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ITEM_PACKAGE_CBO",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 34,
+"rows": 509012
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "LPN_CATCH_WEIGHT",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 20,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "LPN_DETAIL",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 101,
+"rows": 97070
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "LPN_FACILITY_STATUS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 14,
+"rows": 224
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "LPN_LOCK",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 23,
+"rows": 479
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "LPN_SIZE_TYPE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 42,
+"rows": 1077
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "LRF_REPORT",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 29,
+"rows": 991
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "MINOR_SRL_TRACK",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 19,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "MSG_LOG",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 47,
+"rows": 4808961
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ORDER_STATUS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 15,
+"rows": 42
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ORDER_TYPE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 21,
+"rows": 35
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PHYS_INVN_HDR",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 32,
+"rows": 194585
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PICK_LOCN_DTL",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 57,
+"rows": 212011
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PICK_LOCN_HDR",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 41,
+"rows": 388723
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PIX_TRAN",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 88,
+"rows": 7163614
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_CARRIER_CODE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 90,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PROD_TRKG_TRAN",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 61,
+"rows": 357399
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PURCHASE_ORDERS_LINE_STATUS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 14,
+"rows": 217
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PURCHASE_ORDERS_STATUS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 14,
+"rows": 224
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PURCHASE_ORDERS_TYPE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 15,
+"rows": 21
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "RECEIPT_ADJUSTMENT",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 20,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "RESV_LOCN_HDR",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 36,
+"rows": 63260
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SHIP_WAVE_PARM",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 38,
+"rows": 116359
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SHIPMENT_STATUS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 14,
+"rows": 105
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "TASK_DTL",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 93,
+"rows": 97347
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "TASK_HDR",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 72,
+"rows": 420761
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "VEND_PERF_CODE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 36,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "VEND_PERF_TRAN",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 37,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "VENDOR_MASTER",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 38,
+"rows": 23427
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "COMPANY",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 95,
+"rows": 23662
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "DOCK",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 24,
+"rows": 7
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "FACILITY_ALIAS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 39,
+"rows": 250
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "LOCN_HDR",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 56,
+"rows": 452136
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PRODUCT_CLASS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 21,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SIZE_UOM",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 35,
+"rows": 95173
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "DOCK_DOOR",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 37,
+"rows": 912
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "BUSINESS_PARTNER",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 40,
+"rows": 23427
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "CARRIER_CODE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 93,
+"rows": 116
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ORDER_LINE_ITEM",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 228,
+"rows": 45280
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ORDERS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 356,
+"rows": 16902
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "DOCK_ACTION_TYPE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 15,
+"rows": 21
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "DOCK_DOOR_REF",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 24,
+"rows": 814
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "WHSE_SYS_CODE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 26,
+"rows": 610
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "CD_SYS_CODE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 26,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "TIME_ZONE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 17,
+"rows": 735
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SYS_CODE_TYPE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 29,
+"rows": 10518
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ASN",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 151,
+"rows": 3377
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SHIPMENT",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 384,
+"rows": 621
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PURCHASE_ORDERS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 274,
+"rows": 2270
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "LPN",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 274,
+"rows": 76750
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ILM_APPOINTMENTS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 77,
+"rows": 901
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SRL_NBR_TRACK",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 34,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "WM_INVENTORY",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 49,
+"rows": 253684
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PURCHASE_ORDERS_LINE_ITEM",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 268,
+"rows": 109316
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ILM_APPOINTMENT_STATUS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 15,
+"rows": 133
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ILM_APPT_DOCKS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 20,
+"rows": 992
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ILM_APPT_SLOTS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 22,
+"rows": 157
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ILM_OBJECT_TYPE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 18,
+"rows": 63
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ILM_STATUS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 16,
+"rows": 175
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "LPN_AUDIT_RESULTS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 51,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "LPN_STATUS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 13,
+"rows": 105
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "LPN_TYPE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 14,
+"rows": 35
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "MANIFEST_HDR",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 46,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "MANIFEST_TYPE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 18,
+"rows": 189
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "MANIFESTED_LPN",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 76,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ORDER_SPLIT",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 44,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ORDER_SPLIT_LINE_ITEM",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 44,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ORDER_WMS_STATUS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 13,
+"rows": 168
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "OUTPT_LPN",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 93,
+"rows": 16696
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "OUTPT_LPN_DETAIL",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 62,
+"rows": 36697
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "OUTPT_ORDERS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 180,
+"rows": 11593
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PIX_REF_CODE_MASTER",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 22,
+"rows": 581
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PIX_REF_GRP_MASTER",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 20,
+"rows": 1281
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PIX_TRAN_CODE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 25,
+"rows": 1197
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PKT_DTL",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 175,
+"rows": 142404
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PKT_HDR",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 249,
+"rows": 59864
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SHIP_VIA",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 33,
+"rows": 204
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SHIPMENT_WMS_STATUS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 13,
+"rows": 98
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UCL_USER",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 60,
+"rows": 1282
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "WAVE_PARM",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 188,
+"rows": 116285
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "EQUIPMENT_INSTANCE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 108,
+"rows": 1476
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ILM_YARD_ACTIVITY",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 24,
+"rows": 3863
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ASN_DETAIL_TEST",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 102,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "FACILITY",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 235,
+"rows": 252
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PURCHASE_ORDERS_NOTE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 21,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ITEM_CBO",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 113,
+"rows": 658876
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ITEM_FACILITY_MAPPING_WMS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 91,
+"rows": 660842
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ITEM_COST_CBO",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 29,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ITEM_PRICE_CBO",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 31,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ITEM_WMS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 147,
+"rows": 658865
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SYS_CODE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 25,
+"rows": 65826
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "CURRENCY",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 22,
+"rows": 1442
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ITEM_VENDOR",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 34,
+"rows": 1162687
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "WHSE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 25,
+"rows": 7
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "WHSERGN",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 14,
+"rows": 2
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ILM_APPT_CUSTOM_ATTRIBUTE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 17,
+"rows": 983
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "CNT_INVN_DTL",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 31,
+"rows": 96132
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SLOTS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 25,
+"rows": 21
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SLOTS_GROUP",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 24,
+"rows": 7
+}
+, 
+{
+"schema": "WMOSODS ",
+"tabname": "CNTR_TYPE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 53,
+"rows": 351
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ORDER_NOTE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 20,
+"rows": 33991
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "WMS_AS400_USER_MAPPING",
+"type": "Table",
+"createdate": "2016-10-09",
+"colcount": 19,
+"rows": 13
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ASN_TEST",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 142,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ASN_VOLUME_TEST",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 144,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ALLOC_INVN_DTL",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 81,
+"rows": 171333
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "EQUIPMENT",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 54,
+"rows": 23760
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "EQUIPMENT_TYPE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 16,
+"rows": 42
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "CNT_INVN_HDR",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 36,
+"rows": 194768
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "attrep_apply_exceptions",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 6,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SHIP_VIA_ATTUNITY_TESTING",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 33,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "OUTPT_ORDER_LINE_ITEM",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 109,
+"rows": 33843
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IDENTITYC",
+"type": "View",
+"createdate": "2016-10-18",
+"colcount": 3,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ITEM_SUPPLIER_XREF_CBO",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 23,
+"rows": 658960
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "TIME",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 13,
+"rows": 86401
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "DATE",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 29,
+"rows": 19835
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ILM_APPT_EQUIPMENTS",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 18,
+"rows": 782
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PUTWY_ZONE_PRTY",
+"type": "Table",
+"createdate": "2016-10-07",
+"colcount": 27,
+"rows": 1566
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_CD_MASTER",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 17,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ORDER_LINE_ITEM_ITEM_ID_2",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 229,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ASN_DETAIL_TEST_SKU_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 104,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "LPN_VENDOR",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 44,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "MANIFEST_EXCEPTIONS",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "PURCHASE_ORDERS_VIEW",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 514,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SKU_SIZE_UOM_PACKAGE_TYPE_MAP",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 6,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "INPT_SLOTINFO_MOVE_LIST",
+"type": "Table",
+"createdate": "2017-01-06",
+"colcount": 24,
+"rows": 8
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "LOCN_SIZE_TYPE",
+"type": "Table",
+"createdate": "2017-01-06",
+"colcount": 23,
+"rows": 922
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SYS_CODES",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "SRL_NBR_INVN",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 22,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ALLOC_INVN_DTL_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 80,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ALLOC_INVN_DTL_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 80,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ASN_DETAIL_ORDER_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 110,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ASN_DETAIL_PURCHASE_ORDERS_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 110,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ASN_DETAIL_SKU_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 110,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ASN_DETAIL_SKU_NAME",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 110,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ASN_DETAIL_TEST_ORDER_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 104,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ASN_DETAIL_TEST_PURCHASE_ORDERS_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 104,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ASN_DETAIL_TEST_SKU_NAME",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 104,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_CNT_INVN_DTL_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 30,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_FROZN_INVN_DTL_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 31,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_INVN_VARI_HDR_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 49,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ITEM_CBO_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 114,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ITEM_COST_CBO_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 28,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ITEM_FACILITY_MAPPING_WMS_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 90,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ITEM_PACKAGE_CBO_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 33,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ITEM_PRICE_CBO_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 30,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ITEM_SIZE_UOM_PACKAGE_TYPE_MAP_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 16,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ITEM_VENDOR_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 33,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ITEM_WMS_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 146,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_LPN_AUDIT_RESULTS_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 50,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_LPN_DETAIL_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 102,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_LPN_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 275,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_LPN_VENDOR_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 46,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ORDER_LINE_ITEM_EXT_SYS_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 229,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ORDER_LINE_ITEM_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 229,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ORDER_LINE_ITEM_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 229,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ORDER_LINE_ITEM_MO_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 229,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ORDER_LINE_ITEM_ORIGINAL_ORDERED_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 229,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ORDER_LINE_ITEM_PARENT_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 229,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ORDER_LINE_ITEM_REFERENCE_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 229,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ORDER_LINE_ITEM_RTS_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 229,
+"rows": -1
+}, 
+
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ORDER_NOTE_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 19,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ORDER_SPLIT_LINE_ITEM_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 43,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ORDER_SPLIT_LINE_ITEM_ORDER_SPLIT_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 43,
+"rows": -1
+} ,
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_OUTPT_LPN_DETAIL_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 63,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PICK_LOCN_DTL_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 56,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PIX_TRAN_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 89,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PKT_DTL_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 174,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PKT_DTL_ORIG_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 174,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PKT_DTL_ORIGINAL_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 174,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PKT_DTL_PARENT_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 174,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PKT_DTL_REFERENCE_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 174,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PROD_TRKG_TRAN_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 60,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PROD_TRKG_TRAN_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 60,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PURCHASE_ORDERS_LINE_ITEM_EXT_SYS_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 267,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PURCHASE_ORDERS_LINE_ITEM_ORIGINAL_PO_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 267,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PURCHASE_ORDERS_LINE_ITEM_PARENT_PO_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 267,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PURCHASE_ORDERS_LINE_ITEM_PURCHASE_ORDERS_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 267,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PURCHASE_ORDERS_LINE_ITEM_ROOT_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 267,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PURCHASE_ORDERS_NOTE_PURCHASE_ORDERS_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 20,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PURCHASE_ORDERS_VIEW_EXT_SYS_LINE_ITEM_ID_LI",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 516,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PURCHASE_ORDERS_VIEW_ORIGINAL_PO_LINE_ITEM_ID_LI",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 516,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PURCHASE_ORDERS_VIEW_PARENT_PO_LINE_ITEM_ID_LI",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 516,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PURCHASE_ORDERS_VIEW_PURCHASE_ORDERS_LINE_ITEM_ID_LI",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 516,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PURCHASE_ORDERS_VIEW_ROOT_LINE_ITEM_ID_LI",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 516,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_RESV_LOCN_HDR_DEDCTN_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 35,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_SRL_NBR_INVN_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 24,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_SRL_NBR_TRACK_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 33,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_TASK_DTL_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 92,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_PURCHASE_ORDERS_LINE_ITEM_SKU_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 267,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_TASK_DTL_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 92,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_TASK_HDR_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 71,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_VEND_PERF_TRAN_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 36,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_WM_INVENTORY_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 48,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_WMS_AS400_USER_MAPPING",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 19,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_DATE",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 24,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ITEMS",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 160,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ITEM_CBO",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 110,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ITEM_SIZE_UOM_PACKAGE_TYPE_MAP",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_LPN_VENDOR",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 44,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_MANIFEST_EXCEPTIONS",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PURCHASE_ORDERS_VIEW",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 514,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SHIP_VIA_ATTUNITY_TESTING",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 28,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SIZE_UOM",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 32,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SKU_SIZE_UOM_PACKAGE_TYPE_MAP",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 6,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SRL_NBR_INVN",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 22,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SYS_CODES",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_TIME",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_WHSE",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 24,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_OUTPT_ORDER_LINE_ITEM_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 108,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_OUTPT_ORDER_LINE_ITEM_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 108,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_OUTPT_ORDER_LINE_ITEM_ORIG_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 108,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_OUTPT_ORDER_LINE_ITEM_ORIG_ORDER_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 108,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_OUTPT_ORDER_LINE_ITEM_OUTPT_ORDER_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 108,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_OUTPT_ORDER_LINE_ITEM_PARENT_LINE_ITEM_ID",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 108,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ITEMS_ITEM_ID1",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 162,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ITEMS_ITEM_ID2",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 162,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ITEMS_ITEM_ID3",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 162,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_IN_ITEMS_ITEM_ID4",
+"type": "View",
+"createdate": "2016-10-07",
+"colcount": 162,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_CD_SYS_CODE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 23,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_CNTR_TYPE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 50,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ASN_LEVEL",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ASN_STATUS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ASN_TYPE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "attrep_status",
+"type": "Table",
+"createdate": "2016-10-12",
+"colcount": 12,
+"rows": 14
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "attrep_suspended_tables",
+"type": "Table",
+"createdate": "2016-10-12",
+"colcount": 6,
+"rows": 0
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "attrep_history",
+"type": "Table",
+"createdate": "2016-10-12",
+"colcount": 8,
+"rows": 257849
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ATTUNITY_TASK_STATUS",
+"type": "View",
+"createdate": "2016-10-21",
+"colcount": 4,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ATTUNITY_LATENCY",
+"type": "View",
+"createdate": "2016-10-24",
+"colcount": 5,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ILM_APPT_TRAILER",
+"type": "View",
+"createdate": "2016-10-24",
+"colcount": 5,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ILM_APPT_EQUIPMENTS",
+"type": "View",
+"createdate": "2016-10-24",
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_BUSINESS_PARTNER",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 37,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ATTUNITY_APPLY_EXCEPTIONS",
+"type": "View",
+"createdate": "2016-11-22",
+"colcount": 6,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ALLOC_INVN_DTL",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 78,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ASN_DETAIL",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 108,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ASN_DETAIL_STATUS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "COMMODITY_CLASS",
+"type": "Table",
+"createdate": "2016-11-21",
+"colcount": 15,
+"rows": 133
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_CNT_INVN_DTL",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 28,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_CNT_INVN_HDR",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 33,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_COMPANY",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 92,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_CURRENCY",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 19,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_DOCK",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 21,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_DOCK_ACTION_TYPE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_DOCK_DOOR",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 34,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_DOCK_DOOR_REF",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 21,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_DO_STATUS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_DO_TYPE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_EQUIPMENT",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 51,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_EQUIPMENT_INSTANCE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 105,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_EQUIPMENT_TYPE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_FACILITY",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 232,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_FACILITY_ALIAS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 36,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_FROZN_INVN_CONFIG",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 35,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_FROZN_INVN_DTL",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 29,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_FROZN_INVN_HDR",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 38,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ILM_APPOINTMENTS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 74,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ILM_APPOINTMENT_OBJECTS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 16,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ILM_APPOINTMENT_STATUS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ILM_APPOINTMENT_TYPE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ILM_APPT_CUSTOM_ATTRIBUTE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ILM_APPT_DOCKS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 17,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ILM_APPT_SLOTS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 19,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ILM_APPT_TRAILER",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 5,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ILM_OBJECT_TYPE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 15,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ILM_STATUS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ILM_YARD_ACTIVITY",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 21,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_INVN_VARI_HDR",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 47,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ITEM_COST_CBO",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 26,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ITEM_FACILITY_MAPPING_WMS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 88,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ITEM_PACKAGE_CBO",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 31,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ITEM_PRICE_CBO",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 28,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ITEM_SUPPLIER_XREF_CBO",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 20,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ITEM_VENDOR",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 31,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ITEM_WMS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 144,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_LOCN_HDR",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 53,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_LPN",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 271,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_LPN_AUDIT_RESULTS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 48,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_LPN_CATCH_WEIGHT",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 17,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_LPN_DETAIL",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 98,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_LPN_FACILITY_STATUS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_LPN_LOCK",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 20,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_LPN_SIZE_TYPE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 39,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_LPN_STATUS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_LPN_TYPE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_LRF_REPORT",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 26,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_MANIFESTED_LPN",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 73,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_MANIFEST_HDR",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 43,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_MANIFEST_TYPE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 15,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_MINOR_SRL_TRACK",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 16,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_MSG_LOG",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 44,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ORDERS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 353,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ORDER_LINE_ITEM",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 225,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ORDER_NOTE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 17,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ORDER_SPLIT",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 41,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ORDER_SPLIT_LINE_ITEM",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 41,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ORDER_STATUS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ORDER_TYPE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 18,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ORDER_WMS_STATUS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_OUTPT_LPN",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 90,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_OUTPT_LPN_DETAIL",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 59,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_OUTPT_ORDERS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 177,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_OUTPT_ORDER_LINE_ITEM",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 106,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PHYS_INVN_HDR",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 29,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PICK_LOCN_DTL",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 54,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PICK_LOCN_HDR",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 38,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PIX_REF_CODE_MASTER",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 19,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PIX_REF_GRP_MASTER",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 17,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PIX_TRAN",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 85,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PIX_TRAN_CODE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 22,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PKT_DTL",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 172,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PKT_HDR",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 246,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PRODUCT_CLASS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 18,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PROD_TRKG_TRAN",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 58,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PURCHASE_ORDERS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 271,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PURCHASE_ORDERS_LINE_STATUS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PURCHASE_ORDERS_NOTE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 18,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PURCHASE_ORDERS_STATUS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_PURCHASE_ORDERS_TYPE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_RECEIPT_ADJUSTMENT",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 17,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_RESV_LOCN_HDR",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 33,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SHIPMENT",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 381,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SHIPMENT_STATUS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SHIPMENT_WMS_STATUS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SHIP_VIA",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 30,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SHIP_WAVE_PARM",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 35,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SLOTS",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 22,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SLOTS_GROUP",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 21,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SRL_NBR_TRACK",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 31,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SYS_CODE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 22,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_SYS_CODE_TYPE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 26,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_TASK_DTL",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 90,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_TASK_HDR",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 69,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_TIME_ZONE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_UCL_USER",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 57,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_VENDOR_MASTER",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 35,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_VEND_PERF_CODE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 33,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_VEND_PERF_TRAN",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 34,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_WAVE_PARM",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 185,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_WHSE_SYS_CODE",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 23,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_WM_INVENTORY",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 46,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ASN",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 148,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_WHSERGN",
+"type": "View",
+"createdate": "2016-10-26",
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ITEM_SIZE_UOM_PACKAGE_TYPE_MAP",
+"type": "View",
+"createdate": "2016-11-01",
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ATTUNITY_TRACKER_TEST",
+"type": "Table",
+"createdate": "2016-11-03",
+"colcount": 7,
+"rows": 1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ITEMS",
+"type": "View",
+"createdate": "2016-12-12",
+"colcount": 160,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_UOM_TRANSLATION",
+"type": "View",
+"createdate": "2017-01-26",
+"colcount": 19,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "MQT_UOM_TRANSLATION",
+"type": "View",
+"createdate": "2017-01-26",
+"colcount": 19,
+"rows": 1161635
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_INPT_SLOTINFO_MOVE_LIST",
+"type": "View",
+"createdate": "2017-01-24",
+"colcount": 22,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_LOCN_SIZE_TYPE",
+"type": "View",
+"createdate": "2017-01-24",
+"colcount": 21,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_GLOBAL_INTELLIGRATED_DATA",
+"type": "View",
+"createdate": "2017-01-23",
+"colcount": 15,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_COMMODITY_CLASS",
+"type": "View",
+"createdate": "2017-01-26",
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_C_WM08_VIEW",
+"type": "View",
+"createdate": "2017-04-20",
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "EPI_TRANSACTION_LOG",
+"type": "Table",
+"createdate": "2017-04-05",
+"colcount": 20,
+"rows": 148942
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ATTUNITY_SUSPENDED_TABLES",
+"type": "View",
+"createdate": "2017-04-10",
+"colcount": 6,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_DIMPERSON",
+"type": "View",
+"createdate": "2017-03-07",
+"colcount": 21,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "ITEM_CLASSIFICATION_CODE",
+"type": "Table",
+"createdate": "2017-04-11",
+"colcount": 14,
+"rows": 2841323
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "CLASSIFICATION_CODE",
+"type": "Table",
+"createdate": "2017-04-11",
+"colcount": 26,
+"rows": 7468
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_CLASSIFICATION_CODE",
+"type": "View",
+"createdate": "2017-04-11",
+"colcount": 25,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_EPI_TRANSACTION_LOG",
+"type": "View",
+"createdate": "2017-04-11",
+"colcount": 19,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "UVW_ITEM_CLASSIFICATION_CODE",
+"type": "View",
+"createdate": "2017-04-11",
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "WMOSODS ",
+"tabname": "GLOBAL_INTELLIGRATED_DATA",
+"type": "Table",
+"createdate": "2017-03-08",
+"colcount": 15,
+"rows": 0
+}
+]

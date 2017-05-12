@@ -1,0 +1,78 @@
+
+<div class="container">
+   <div class="page-header text-center">
+  <h1><a [routerLink]="['/welcome']">Data Dictionary </a>
+  </h1>
+</div>
+
+<div class='panel panel-primary' >
+    <div class='panel-heading'>
+        {{pageTitle}}
+    </div>
+
+<ul class="nav nav-pills">
+  <li role="presentation" class="active"><a [routerLink]="['/TableColumns', {tableName: tableName}]">Columns</a></li>
+  <li role="presentation"><a href="#">Data Model</a></li>
+  <li role="presentation"><a  [routerLink]="['/TableViews', {tableName: tableName}]">Views</a></li>
+  <li role="presentation"><a href="#">Replication</a></li>
+</ul>
+
+    <!-- Filter the tablecolumnsss   -->
+    <div class='panel-body'>
+        <div class='row'>
+            <div class='col-md-1' > <div class=font-weight: bold>Filter by:</div></div>
+            <div class='col-md-4'>
+                <input type='text' [(ngModel)]='listFilter' />
+            </div>
+        </div>
+        <div class='row' *ngIf='listFilter'>    
+            <div class='col-md-6'>
+                <h3>Filtered by: {{listFilter}} </h3>
+            </div>
+        </div>
+
+        <div class='has-error' *ngIf='errorMessage'>{{errorMessage}}</div>
+
+        <div class='table-responsive'>
+            <table class='table'
+                   *ngIf='tablecolumns && tablecolumns.length'>
+                <thead>
+                    <tr>
+
+                        <th>ColumnName</th>
+                        <th>Ordinal Position</th>
+                        <th>Data Type</th>
+                        <th>Length</th>
+                        <th>Decimal Positions</th>
+                        <th>Comments</th>
+                        <th>Allow Nulls</th>
+                        <th>Generated</th>
+                        <th>Unique Accurances</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor='let tablecolumn of tablecolumns | tablecolumnsFilterPipe:listFilter'>
+                        <td>
+                            <a [routerLink]="['/ColumnsDetails', tablecolumn.ColumnName]">
+                            {{tablecolumn.ColumnName}}    
+                            </a>  
+                            <i class="fa fa-key" style="color:red" *ngIf="tablecolumn.KeySequence > 0" ></i> 
+                        </td>
+                        <td>
+                            {{ tablecolumn.OrdinalPosition }}
+                        </td>
+                        <td>{{ tablecolumn.DataType}}</td>
+                        <td>{{ tablecolumn.Length }}</td>
+                        <td>{{ tablecolumn.DecimalPositions  }}</td>
+                        <td>{{ tablecolumn.Comments  }}</td>
+                        <td>{{ tablecolumn.AllowNulls  }}</td>
+                        <td>{{ tablecolumn.Generated  }}</td>
+                        <td>{{ tablecolumn.COLCARD  }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+    </div>
+
+</div>

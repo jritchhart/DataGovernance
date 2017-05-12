@@ -1,0 +1,38 @@
+[
+{
+"schema": "CMDB    ",
+"ObjectCount": 38
+}, 
+{
+"schema": "CORP    ",
+"ObjectCount": 96
+}, 
+{
+"schema": "CUS     ",
+"ObjectCount": 57
+}, 
+{
+"schema": "DBA     ",
+"ObjectCount": 3
+}, 
+{
+"schema": "FED_SQLSERVER",
+"ObjectCount": 4
+}, 
+{
+"schema": "FED_USPRD",
+"ObjectCount": 10
+}, 
+{
+"schema": "ITM     ",
+"ObjectCount": 437
+}, 
+{
+"schema": "ORD     ",
+"ObjectCount": 59
+}, 
+{
+"schema": "WHS     ",
+"ObjectCount": 15
+}
+]

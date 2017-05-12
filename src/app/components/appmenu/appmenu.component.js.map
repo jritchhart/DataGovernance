@@ -1,0 +1,1 @@
+{"version":3,"file":"appmenu.component.js","sourceRoot":"","sources":["appmenu.component.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,sCAAkD;AAOlD,IAAa,gBAAgB;IAE3B;IAAgB,CAAC;IAEjB,mCAAQ,GAAR;IACA,CAAC;IAEH,uBAAC;AAAD,CAAC,AAPD,IAOC;AAPY,gBAAgB;IAL5B,gBAAS,CAAC;QACT,QAAQ,EAAE,aAAa;QACvB,WAAW,EAAE,iDAAiD;QAC9D,SAAS,EAAE,CAAC,gDAAgD,CAAC;KAC9D,CAAC;;GACW,gBAAgB,CAO5B;AAPY,4CAAgB"}

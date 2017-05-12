@@ -1,0 +1,3620 @@
+[
+{
+"schema": "USERCVT",
+"tabname": "ACTCDESQL",
+"tabtext": "Backorder Action Codes",
+"type": "Table",
+"createdate": "2011-11-04" ,
+"colcount": 7,
+"rows": 8
+}, 
+{
+"schema": "USERCVT",
+"tabname": "AFR101PF",
+"tabtext": "AFR Activity File",
+"type": "Table",
+"createdate": "2011-04-01" ,
+"colcount": 14,
+"rows": 0
+}, 
+{
+"schema": "USERCVT",
+"tabname": "AP_TERMS",
+"tabtext": "ACCOUNT PAYABLE TERMS FROM ORACLE",
+"type": "Table",
+"createdate": "2013-08-28" ,
+"colcount": 4,
+"rows": 101
+}, 
+{
+"schema": "USERCVT",
+"tabname": "APAUTO",
+"tabtext": "Freight Carrier AP/GL information",
+"type": "View",
+"createdate": "2001-05-08" ,
+"colcount": 15,
+"rows": 3596
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ARCODE",
+"tabtext": "AC.ARCODE  A/R Disbursement Code File**+",
+"type": "View",
+"createdate": "1997-11-17" ,
+"colcount": 10,
+"rows": 108
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ARCWO",
+"tabtext": "Check with Order File",
+"type": "View",
+"createdate": "2002-01-03" ,
+"colcount": 33,
+"rows": 472634
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ARDETARC",
+"tabtext": "A/R Detail Archive Table",
+"type": "Table",
+"createdate": "2015-09-08" ,
+"colcount": 48,
+"rows": 44609464
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ARDETSQL",
+"tabtext": "ARDETSQL - A/R Detail Table",
+"type": "Table",
+"createdate": "2015-07-28" ,
+"colcount": 46,
+"rows": 56014349
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ARDNOT",
+"tabtext": "AN.ARDNOT   A/ R detail notes file",
+"type": "View",
+"createdate": "1997-02-22" ,
+"colcount": 18,
+"rows": 87613704
+}, 
+{
+"schema": "USERCVT",
+"tabname": "AREFAXMSQL",
+"tabtext": "Customer DB - auto send Email/Fax Messag",
+"type": "Table",
+"createdate": "2013-05-14" ,
+"colcount": 13,
+"rows": 9137198
+}, 
+{
+"schema": "USERCVT",
+"tabname": "AREFAXSQL",
+"tabtext": "Customer DB - auto send Email/Fax etc.",
+"type": "Table",
+"createdate": "2013-05-14" ,
+"colcount": 17,
+"rows": 117848
+}, 
+{
+"schema": "USERCVT",
+"tabname": "AREFAX2SQL",
+"tabtext": "F2 AREFAX2 - auto send Email/Fax etc. Ex",
+"type": "Table",
+"createdate": "2013-05-14" ,
+"colcount": 31,
+"rows": 387
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ARHDRSQL",
+"tabtext": "AH.ARHDR    A/R header",
+"type": "Table",
+"createdate": "2014-10-09" ,
+"colcount": 84,
+"rows": 3131776
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ARINFO",
+"tabtext": "AI.ARINFO  A/R Info File**+",
+"type": "View",
+"createdate": "1997-02-22" ,
+"colcount": 11,
+"rows": 591266
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ARONOTSQL",
+"tabtext": "AN.ARONOT A/R detail notes by CSNR,ORDN",
+"type": "Table",
+"createdate": "2017-02-08" ,
+"colcount": 17,
+"rows": 64485177
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ARTERMS",
+"tabtext": "** AT.ARTERMS  A/R Terms File**+",
+"type": "View",
+"createdate": "1994-01-24" ,
+"colcount": 15,
+"rows": 32
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BCKORDSQL",
+"tabtext": "Backorder Log File",
+"type": "Table",
+"createdate": "2011-11-04" ,
+"colcount": 23,
+"rows": 842869
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BOLDOCK",
+"tabtext": "BOL Additional Dock File",
+"type": "View",
+"createdate": "2004-12-13" ,
+"colcount": 8,
+"rows": 319118
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BOLTRN",
+"tabtext": "BOL for Transfers to Remote Warehouses",
+"type": "View",
+"createdate": "2001-04-24" ,
+"colcount": 26,
+"rows": 191750
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BOLTRNEX",
+"tabtext": "BOL for Transfers to Remote Warehouses Extension",
+"type": "View",
+"createdate": "2004-04-29" ,
+"colcount": 10,
+"rows": 340947
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BOLTRN2",
+"tabtext": "BOL for Transfers to Remote Warehouses Ext. File",
+"type": "View",
+"createdate": "2008-09-19" ,
+"colcount": 12,
+"rows": 260813
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BOM100CT",
+"tabtext": "Bill of Material Component Type File",
+"type": "Table",
+"createdate": "2010-07-04" ,
+"colcount": 8,
+"rows": 1
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BOM100DT",
+"tabtext": "Bill of Material Detail File",
+"type": "Table",
+"createdate": "2010-07-04" ,
+"colcount": 37,
+"rows": 7248
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BOM100HD",
+"tabtext": "Bill of Material Header File",
+"type": "Table",
+"createdate": "2010-07-04" ,
+"colcount": 26,
+"rows": 3088
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BOM100MS",
+"tabtext": "Bill of Material Message File",
+"type": "Table",
+"createdate": "2010-07-04" ,
+"colcount": 17,
+"rows": 12
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BOM100TP",
+"tabtext": "Bill of Material Type File",
+"type": "Table",
+"createdate": "2010-07-04" ,
+"colcount": 8,
+"rows": 2
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BOQPSTS",
+"tabtext": "Back Order Queue Primary Status File",
+"type": "View",
+"createdate": "2005-08-25" ,
+"colcount": 8,
+"rows": 6
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BOQSSTS",
+"tabtext": "Back Order Queue Secondary Status File",
+"type": "View",
+"createdate": "2005-08-25" ,
+"colcount": 8,
+"rows": 5
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BOQUESQL",
+"tabtext": "Back Order Queue",
+"type": "Table",
+"createdate": "2011-11-04" ,
+"colcount": 31,
+"rows": 2108213
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BOQXREF",
+"tabtext": "Back Order Queue Cross Reference File",
+"type": "View",
+"createdate": "2005-10-18" ,
+"colcount": 7,
+"rows": 169259
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BTRDET",
+"tabtext": "AP.BTRDET   Bank & Trade Detail File",
+"type": "View",
+"createdate": "1997-10-22" ,
+"colcount": 20,
+"rows": 7586
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BTRHDR",
+"tabtext": "AQ.BTRHDR   Bank & Trade Header File",
+"type": "View",
+"createdate": "2008-02-18" ,
+"colcount": 169,
+"rows": 3640301
+}, 
+{
+"schema": "USERCVT",
+"tabname": "BTRHDR2",
+"tabtext": "AQ.BTRHDR2  Bank & Trade Header File",
+"type": "View",
+"createdate": "2001-09-28" ,
+"colcount": 16,
+"rows": 1311078
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CATDSC",
+"tabtext": "SD.CATDSC   Catalog Page Descriptions",
+"type": "View",
+"createdate": "1994-08-03" ,
+"colcount": 6,
+"rows": 116013
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CATFRTO",
+"tabtext": "File with Catalog and From/to Dates",
+"type": "View",
+"createdate": "2001-02-13" ,
+"colcount": 3,
+"rows": 100
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CATLOGSQL",
+"tabtext": "SC.CATLOG   Catalog Code File**",
+"type": "Table",
+"createdate": "2013-07-24" ,
+"colcount": 31,
+"rows": 100
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CCREGHST",
+"tabtext": "History File from CC001/CC005 programs",
+"type": "View",
+"createdate": "2000-12-21" ,
+"colcount": 18,
+"rows": 10958994
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CIR110CT",
+"tabtext": "Marketing Stuffer Criteria File",
+"type": "Table",
+"createdate": "2011-01-17" ,
+"colcount": 16,
+"rows": 136
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CIR130CT",
+"tabtext": "Intelligent Stuffer Selection",
+"type": "Table",
+"createdate": "2012-03-16" ,
+"colcount": 9,
+"rows": 119
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CITYCAN",
+"tabtext": "Canada City",
+"type": "View",
+"createdate": "2012-05-25" ,
+"colcount": 7,
+"rows": 1
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CITYSQL",
+"tabtext": "zC.CITY     ZIP / CITY / COUNTY FILE",
+"type": "Table",
+"createdate": "2012-02-29" ,
+"colcount": 13,
+"rows": 905270
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CLANTR",
+"tabtext": "CO.CLANTR   Collection Analyst Territory file",
+"type": "View",
+"createdate": "2009-08-21" ,
+"colcount": 7,
+"rows": 112
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CNCOST",
+"tabtext": "Canada Cost File from US System",
+"type": "View",
+"createdate": "2007-12-08" ,
+"colcount": 14,
+"rows": 115360928
+}, 
+{
+"schema": "USERCVT",
+"tabname": "COLAGC",
+"tabtext": "AD.COLAGC   Collection Agency File",
+"type": "View",
+"createdate": "1997-10-27" ,
+"colcount": 4,
+"rows": 8
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CONTCTASQL",
+"tabtext": "CUSTOMER CONTACT AUDIT TRAIL",
+"type": "Table",
+"createdate": "2013-02-21" ,
+"colcount": 40,
+"rows": 32493394
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CONTCTSQL",
+"tabtext": "CK.CONTCT   Customer Contact File",
+"type": "Table",
+"createdate": "2012-02-27" ,
+"colcount": 37,
+"rows": 6033092
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CONTCT2ASQ",
+"tabtext": "CUSTOMER CONTACT 2 AUDIT TRAIL",
+"type": "Table",
+"createdate": "2013-02-21" ,
+"colcount": 23,
+"rows": 47943116
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CONTCT2SQL",
+"tabtext": "CK.CONTCT2  Add  l Contact data",
+"type": "Table",
+"createdate": "2012-02-27" ,
+"colcount": 18,
+"rows": 5429575
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CPDCTL",
+"tabtext": "Custom Product Designer Control file",
+"type": "View",
+"createdate": "2009-02-12" ,
+"colcount": 4,
+"rows": 19
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CRANTR",
+"tabtext": "Credit Analysts Territory File",
+"type": "View",
+"createdate": "2000-03-06" ,
+"colcount": 16,
+"rows": 98
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CRDLMT",
+"tabtext": "Credit Limit Master Grid File",
+"type": "View",
+"createdate": "2002-07-24" ,
+"colcount": 18,
+"rows": 290
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CRMCDE",
+"tabtext": "Credit Memo X-ref Codes",
+"type": "View",
+"createdate": "2004-12-15" ,
+"colcount": 11,
+"rows": 20
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CRMEMO",
+"tabtext": "Credit Memo File",
+"type": "View",
+"createdate": "2004-12-16" ,
+"colcount": 46,
+"rows": 3639895
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CRTCD",
+"tabtext": "ZR.CRTCD    Credit Code File**",
+"type": "View",
+"createdate": "1994-08-20" ,
+"colcount": 20,
+"rows": 47
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CRTHLD",
+"tabtext": "Credit Hold Codes",
+"type": "View",
+"createdate": "2001-06-07" ,
+"colcount": 11,
+"rows": 23
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CRTHORD",
+"tabtext": "Credit Hold Order History",
+"type": "View",
+"createdate": "2001-06-11" ,
+"colcount": 25,
+"rows": 43698474
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CSMITMLCSQ",
+"tabtext": "Item Location Master Ext to ITMLOC",
+"type": "Table",
+"createdate": "2014-10-09" ,
+"colcount": 15,
+"rows": 665168
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CSMLOCZSQL",
+"tabtext": "Location/Zone Master File",
+"type": "Table",
+"createdate": "2014-10-09" ,
+"colcount": 23,
+"rows": 1559
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CSMZONESQL",
+"tabtext": "Zone Master File",
+"type": "Table",
+"createdate": "2014-10-09" ,
+"colcount": 31,
+"rows": 138
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CSTTER",
+"tabtext": "Custom Territories",
+"type": "View",
+"createdate": "2002-03-11" ,
+"colcount": 10,
+"rows": 125
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CTRMAS",
+"tabtext": "UC.CTRMAS   Country code master",
+"type": "View",
+"createdate": "1999-07-19" ,
+"colcount": 16,
+"rows": 242
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CTRST",
+"tabtext": "UD.CTRST    Country/State master",
+"type": "View",
+"createdate": "1999-07-19" ,
+"colcount": 14,
+"rows": 119
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CURMASDSQL",
+"tabtext": "Currency Master - Conversions by curr co",
+"type": "Table",
+"createdate": "2011-06-18" ,
+"colcount": 5,
+"rows": 11196
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CURMASEX",
+"tabtext": "Currency Master - Conversions by curr/date - exp",
+"type": "View",
+"createdate": "2002-02-06" ,
+"colcount": 5,
+"rows": 11157
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CURMASSQL",
+"tabtext": "Currency Master - Description",
+"type": "Table",
+"createdate": "2011-06-18" ,
+"colcount": 4,
+"rows": 194
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSCOM",
+"tabtext": "CP.CUSCOM  Customer Comments",
+"type": "View",
+"createdate": "1997-05-14" ,
+"colcount": 13,
+"rows": 946641
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSINF",
+"tabtext": "Customer Info File",
+"type": "View",
+"createdate": "1999-03-17" ,
+"colcount": 13,
+"rows": 3026722
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSITM",
+"tabtext": "CN.CUSITM   Cust link or item # their item #",
+"type": "View",
+"createdate": "1995-07-19" ,
+"colcount": 5,
+"rows": 191439
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSMASAUD",
+"tabtext": "CUSMAS AUDIT TRAIL - AFTER IMAGE",
+"type": "View",
+"createdate": "2011-02-12" ,
+"colcount": 162,
+"rows": 33730877
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSMASSQL",
+"tabtext": "CS.CUSMAS   Customer Master File**+",
+"type": "Table",
+"createdate": "2014-08-07" ,
+"colcount": 160,
+"rows": 7147844
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSMSF",
+"tabtext": "CM.CUSMSF   Customer Message File**",
+"type": "View",
+"createdate": "1997-11-15" ,
+"colcount": 8,
+"rows": 184980
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSMSS",
+"tabtext": "TM.CUSMSS   Customer ShipTo Order Messages",
+"type": "View",
+"createdate": "2001-09-06" ,
+"colcount": 9,
+"rows": 168028
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSMSSB",
+"tabtext": "TM.CUSMSSB  Customer ShipTo BOL Messages",
+"type": "View",
+"createdate": "2006-03-02" ,
+"colcount": 10,
+"rows": 810252
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSNACD",
+"tabtext": "Customer National Accounts Detail File",
+"type": "View",
+"createdate": "2006-09-13" ,
+"colcount": 7,
+"rows": 1449
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSNACH",
+"tabtext": "Customer National Accounts Header File",
+"type": "View",
+"createdate": "2006-09-13" ,
+"colcount": 4,
+"rows": 57
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSNAD",
+"tabtext": "CN.CUSNAD  Customer's "DoNOTDuplicate/Merge" data",
+"type": "View",
+"createdate": "2001-02-28" ,
+"colcount": 8,
+"rows": 400632
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSRCPSQL",
+"tabtext": "CR.CUSRCP   Customer Recipient File**",
+"type": "Table",
+"createdate": "2014-08-07" ,
+"colcount": 32,
+"rows": 2263794
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSSICGRP",
+"tabtext": "Customer sic group size code xref file",
+"type": "View",
+"createdate": "2003-04-05" ,
+"colcount": 3,
+"rows": 9
+}, 
+{
+"schema": "USERCVT",
+"tabname": "CUSSSC",
+"tabtext": "SJ.CUSSSC  Cust/ShipTo/Buyer Sales by Month",
+"type": "View",
+"createdate": "2001-05-17" ,
+"colcount": 38,
+"rows": 45945944
+}, 
+{
+"schema": "USERCVT",
+"tabname": "C6MATCH",
+"tabtext": "PARMS FOR C6MATCH",
+"type": "View",
+"createdate": "2005-11-20" ,
+"colcount": 119,
+"rows": 40
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DCLEAD",
+"tabtext": "contains leadtimes for whses from dc",
+"type": "View",
+"createdate": "2003-08-27" ,
+"colcount": 3,
+"rows": 34
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DEPTMAST",
+"tabtext": "Department Master for Codes used in USRDFT",
+"type": "View",
+"createdate": "2001-05-11" ,
+"colcount": 5,
+"rows": 22
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DIMFACTPF",
+"tabtext": "Dim factor file",
+"type": "View",
+"createdate": "2009-06-01" ,
+"colcount": 12,
+"rows": 248
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DNBALLHST",
+"tabtext": "EB.DNBALL D&B All Info Database - History",
+"type": "View",
+"createdate": "2003-04-15" ,
+"colcount": 260,
+"rows": 3466899
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DNBCDTHST",
+"tabtext": "ED.DNBMKT D&B Credit Database",
+"type": "View",
+"createdate": "2000-03-01" ,
+"colcount": 86,
+"rows": 2104022
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DNBHST",
+"tabtext": "EF.DNBHST D&B History Activity File",
+"type": "View",
+"createdate": "2000-07-12" ,
+"colcount": 49,
+"rows": 10414137
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DNBLKPHST",
+"tabtext": "EC.DNBLKP D&B Lookup Candidate File",
+"type": "View",
+"createdate": "2001-11-04" ,
+"colcount": 54,
+"rows": 10529375
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DNBMKTHST",
+"tabtext": "EB.DNBMKT D&B Marketing Database",
+"type": "View",
+"createdate": "2000-03-01" ,
+"colcount": 71,
+"rows": 3227464
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DNBREQ",
+"tabtext": "EA.DNBREQ D&B Request File",
+"type": "View",
+"createdate": "2000-01-30" ,
+"colcount": 29,
+"rows": 9935199
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DNB002PF",
+"tabtext": "Duns Ultimate Domestic Parent Name",
+"type": "Table",
+"createdate": "2012-02-24" ,
+"colcount": 17,
+"rows": 257110
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DNISSRC",
+"tabtext": "DNIS to Source File - CallPath assigned Source",
+"type": "View",
+"createdate": "2001-09-06" ,
+"colcount": 4,
+"rows": 30
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DPTCDE",
+"tabtext": "Department Codes",
+"type": "View",
+"createdate": "1996-11-10" ,
+"colcount": 2,
+"rows": 13
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DRPPSTS",
+"tabtext": "Drop Ship Primary Status File",
+"type": "View",
+"createdate": "2005-06-03" ,
+"colcount": 8,
+"rows": 4
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DRPRLS",
+"tabtext": "Drop Ship Queue Auto-release File",
+"type": "View",
+"createdate": "2006-09-08" ,
+"colcount": 15,
+"rows": 1543
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DRPSSTS",
+"tabtext": "Drop Ship Secondary Status File",
+"type": "View",
+"createdate": "2005-06-03" ,
+"colcount": 8,
+"rows": 9
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DRPXREF",
+"tabtext": "Drop Ship Cross Reference File",
+"type": "View",
+"createdate": "2005-06-13" ,
+"colcount": 7,
+"rows": 1633778
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DUNBRA",
+"tabtext": "CD.DUNBRA   Dun & Bradstreet File",
+"type": "View",
+"createdate": "2010-05-27" ,
+"colcount": 8,
+"rows": 35748
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DUNZIP",
+"tabtext": "Dun's Direct Access Data (First Lookup)       -GB-",
+"type": "View",
+"createdate": "1995-11-27" ,
+"colcount": 2,
+"rows": 7005
+}, 
+{
+"schema": "USERCVT",
+"tabname": "DWCIQ5",
+"tabtext": "Customer/Item Sales History",
+"type": "View",
+"createdate": "2000-01-28" ,
+"colcount": 43,
+"rows": 52999156
+}, 
+{
+"schema": "USERCVT",
+"tabname": "EDIHNVD",
+"tabtext": "EDI Invoice Detail Archive File For 210",
+"type": "View",
+"createdate": "2007-02-22" ,
+"colcount": 27,
+"rows": 20858709
+}, 
+{
+"schema": "USERCVT",
+"tabname": "EDIHNVH",
+"tabtext": "EDI Invoice Header Archive File For 210",
+"type": "View",
+"createdate": "2007-02-22" ,
+"colcount": 54,
+"rows": 4414660
+}, 
+{
+"schema": "USERCVT",
+"tabname": "EDITRFC",
+"tabtext": "EDI Transfer Freight Charges",
+"type": "View",
+"createdate": "2002-05-06" ,
+"colcount": 4,
+"rows": 615
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FEDXMETERS",
+"tabtext": "FEDEX Shipping Location Meter Definitions",
+"type": "View",
+"createdate": "2001-02-21" ,
+"colcount": 3,
+"rows": 10
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FINDERSQL",
+"tabtext": "F#.FINDER   Finders File",
+"type": "Table",
+"createdate": "2016-04-03" ,
+"colcount": 32,
+"rows": 89420657
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FLDUSR",
+"tabtext": "PX.FLDUSR  Program/Field Last Access",
+"type": "View",
+"createdate": "1997-11-25" ,
+"colcount": 25,
+"rows": 42191910
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FRTACC",
+"tabtext": "Freight Accessorial Charges - Lookup Table",
+"type": "View",
+"createdate": "2001-09-12" ,
+"colcount": 9,
+"rows": 34
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FRTACCBOL",
+"tabtext": "Freight Accessorial BOL Messages",
+"type": "View",
+"createdate": "2004-11-29" ,
+"colcount": 7,
+"rows": 1
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FRTHDR",
+"tabtext": "BC.FRTHDR  Freight shipment header",
+"type": "View",
+"createdate": "1997-06-28" ,
+"colcount": 54,
+"rows": 7290393
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FRTIID",
+"tabtext": "BB.FRTIID  Freight shipment summary item id",
+"type": "View",
+"createdate": "1997-06-28" ,
+"colcount": 19,
+"rows": 24205135
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FRTLOS",
+"tabtext": "BK.FRTLOS  Frt shipments Loose Charges for MN",
+"type": "View",
+"createdate": "2001-01-02" ,
+"colcount": 8,
+"rows": 7
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FRTRMS",
+"tabtext": "FA.FRTRMS  Vendor Freight Terms",
+"type": "View",
+"createdate": "1999-04-05" ,
+"colcount": 4,
+"rows": 11
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FRTRTG",
+"tabtext": "Frt Routing Code File - Generic",
+"type": "View",
+"createdate": "2003-09-25" ,
+"colcount": 12,
+"rows": 170531
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FRTSKD",
+"tabtext": "BJ.FRTSKD  Frt shipments Skid Charges for MN",
+"type": "View",
+"createdate": "2001-01-02" ,
+"colcount": 5,
+"rows": 83
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FRTSPC",
+"tabtext": "BE.FRTSPC  Freight special charges",
+"type": "View",
+"createdate": "2008-02-18" ,
+"colcount": 9,
+"rows": 58300853
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FRTSPL",
+"tabtext": "BW.FRTSPL  Freight special charges",
+"type": "View",
+"createdate": "2008-02-18" ,
+"colcount": 5,
+"rows": 25102680
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FRTSPM",
+"tabtext": "BL.FRTSPM  Frt shipments Special Charges for MN",
+"type": "View",
+"createdate": "2001-01-02" ,
+"colcount": 9,
+"rows": 34
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FRTTKC",
+"tabtext": "BF.FRTTKC  Current truck # by NAM & WHSE",
+"type": "View",
+"createdate": "1996-04-09" ,
+"colcount": 7,
+"rows": 154
+}, 
+{
+"schema": "USERCVT",
+"tabname": "FXLANG",
+"tabtext": "Valid Languages Used",
+"type": "View",
+"createdate": "2009-09-20" ,
+"colcount": 2,
+"rows": 2
+}, 
+{
+"schema": "USERCVT",
+"tabname": "GENACT",
+"tabtext": "General Activity",
+"type": "View",
+"createdate": "2010-12-18" ,
+"colcount": 25,
+"rows": 4208700
+}, 
+{
+"schema": "USERCVT",
+"tabname": "GENLED",
+"tabtext": "GM.GENLED  General Ledger File**",
+"type": "View",
+"createdate": "1994-02-08" ,
+"colcount": 65,
+"rows": 40929
+}, 
+{
+"schema": "USERCVT",
+"tabname": "GLDETL",
+"tabtext": "GD.GLDETL  General ledger detail transactions**",
+"type": "View",
+"createdate": "1997-07-23" ,
+"colcount": 11,
+"rows": 38098762
+}, 
+{
+"schema": "USERCVT",
+"tabname": "HAZPKG",
+"tabtext": "Hazardous Pkg Id",
+"type": "View",
+"createdate": "2002-12-05" ,
+"colcount": 3,
+"rows": 673382
+}, 
+{
+"schema": "USERCVT",
+"tabname": "HOLIDAY",
+"tabtext": "Holiday File",
+"type": "View",
+"createdate": "2001-05-03" ,
+"colcount": 2,
+"rows": 104
+}, 
+{
+"schema": "USERCVT",
+"tabname": "HRM100DM",
+"tabtext": "Harmonized code Duty Master File",
+"type": "Table",
+"createdate": "2010-10-11" ,
+"colcount": 20,
+"rows": 61
+}, 
+{
+"schema": "USERCVT",
+"tabname": "HRM110HM",
+"tabtext": "Harmonized code Master File",
+"type": "Table",
+"createdate": "2010-10-14" ,
+"colcount": 20,
+"rows": 26231
+}, 
+{
+"schema": "USERCVT",
+"tabname": "HRM150EH",
+"tabtext": "Harmonized code Exception Handling",
+"type": "Table",
+"createdate": "2011-09-22" ,
+"colcount": 13,
+"rows": 51
+}, 
+{
+"schema": "USERCVT",
+"tabname": "HRM250HI",
+"tabtext": "Harmonized Item x-Reference File",
+"type": "Table",
+"createdate": "2010-10-14" ,
+"colcount": 34,
+"rows": 141557
+}, 
+{
+"schema": "USERCVT",
+"tabname": "HRM250UPL",
+"tabtext": "Upload File for HRM250HI File",
+"type": "Table",
+"createdate": "2011-10-24" ,
+"colcount": 28,
+"rows": 15
+}, 
+{
+"schema": "USERCVT",
+"tabname": "HRM270ID",
+"tabtext": "Harmonized Item Duties",
+"type": "Table",
+"createdate": "2010-10-14" ,
+"colcount": 22,
+"rows": 304567
+}, 
+{
+"schema": "USERCVT",
+"tabname": "HRM280IE",
+"tabtext": "Harmonized Item exceptions",
+"type": "Table",
+"createdate": "2011-09-22" ,
+"colcount": 8,
+"rows": 35592
+}, 
+{
+"schema": "USERCVT",
+"tabname": "HRM280UPL",
+"tabtext": "Upload File for HRM280HI File",
+"type": "Table",
+"createdate": "2011-10-24" ,
+"colcount": 15,
+"rows": 0
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INTDETSAV",
+"tabtext": "OD.INTDET  Internet Order Detail File**",
+"type": "View",
+"createdate": "2009-12-03" ,
+"colcount": 113,
+"rows": 1498705
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVRGCSQL",
+"tabtext": "OC.INVRGC  Invoice Register",
+"type": "Table",
+"createdate": "2013-07-24" ,
+"colcount": 90,
+"rows": 29114968
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRD",
+"tabtext": "Invoice Transaction Detail File By Invoice, Line #",
+"type": "View",
+"createdate": "2010-09-12" ,
+"colcount": 18,
+"rows": 83255048
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRH",
+"tabtext": "Invoice Transaction Header By Invoice",
+"type": "View",
+"createdate": "2013-12-16" ,
+"colcount": 55,
+"rows": 29142198
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRM",
+"tabtext": "Invoice Transactions Messages by Inv,Line,Seq",
+"type": "View",
+"createdate": "2010-09-12" ,
+"colcount": 4,
+"rows": 31456372
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-12" ,
+"colcount": 1,
+"rows": 1151406
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-15" ,
+"colcount": 1,
+"rows": 344450
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-16" ,
+"colcount": 1,
+"rows": 556474
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-17" ,
+"colcount": 1,
+"rows": 515652
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-18" ,
+"colcount": 1,
+"rows": 558460
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-19" ,
+"colcount": 1,
+"rows": 1173107
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-22" ,
+"colcount": 1,
+"rows": 430658
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-23" ,
+"colcount": 1,
+"rows": 551083
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-24" ,
+"colcount": 1,
+"rows": 519198
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-24" ,
+"colcount": 1,
+"rows": 324416
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-25" ,
+"colcount": 1,
+"rows": 613939
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-26" ,
+"colcount": 1,
+"rows": 1265371
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-29" ,
+"colcount": 1,
+"rows": 415121
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-30" ,
+"colcount": 1,
+"rows": 543758
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-03-31" ,
+"colcount": 1,
+"rows": 510497
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-04-01" ,
+"colcount": 1,
+"rows": 414820
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-04-02" ,
+"colcount": 1,
+"rows": 532662
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-04-05" ,
+"colcount": 1,
+"rows": 1181979
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-04-06" ,
+"colcount": 1,
+"rows": 545705
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-04-07" ,
+"colcount": 1,
+"rows": 536355
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-04-08" ,
+"colcount": 1,
+"rows": 438871
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-04-09" ,
+"colcount": 1,
+"rows": 553282
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-04-13" ,
+"colcount": 1,
+"rows": 530374
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-04-14" ,
+"colcount": 1,
+"rows": 472632
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-04-20" ,
+"colcount": 1,
+"rows": 540257
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-04-21" ,
+"colcount": 1,
+"rows": 513749
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-04-27" ,
+"colcount": 1,
+"rows": 541832
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-04-28" ,
+"colcount": 1,
+"rows": 510886
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-05-03" ,
+"colcount": 1,
+"rows": 518133
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-05-04" ,
+"colcount": 1,
+"rows": 620272
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-05-10" ,
+"colcount": 1,
+"rows": 517778
+}, 
+{
+"schema": "USERCVT",
+"tabname": "INVTRPSV",
+"tabtext": "Invoice Transactions Pipe-Delimited(MicroDinamics)",
+"type": "View",
+"createdate": "2011-05-11" ,
+"colcount": 1,
+"rows": 604337
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMANT",
+"tabtext": "I6.ITMANT  Item Anticipated Cost file by Whse",
+"type": "View",
+"createdate": "1999-12-10" ,
+"colcount": 17,
+"rows": 799668
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMATR",
+"tabtext": "Custom Item Attribute File",
+"type": "View",
+"createdate": "1999-12-02" ,
+"colcount": 4,
+"rows": 8715
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMAUD",
+"tabtext": "IT.ITMAUD   Inventory Daily Beginning Balance",
+"type": "View",
+"createdate": "2016-04-03" ,
+"colcount": 9,
+"rows": 669168076
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMBALSQL",
+"tabtext": "IB.ITMBAL   Inventry Balance File for Mu",
+"type": "Table",
+"createdate": "2014-10-09" ,
+"colcount": 49,
+"rows": 5065284
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMBA2",
+"tabtext": "I2.ITMBA2   Inventry Balance (2nd) w/dtl & sum",
+"type": "View",
+"createdate": "1998-02-08" ,
+"colcount": 20,
+"rows": 7819265
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMCOD",
+"tabtext": "IZ.ITMCOD   Item transaction code file",
+"type": "View",
+"createdate": "1994-06-09" ,
+"colcount": 4,
+"rows": 5
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMGRD",
+"tabtext": "ID.ITMGRD Item Group File By Grp#/Sub-Grp#",
+"type": "View",
+"createdate": "1999-05-26" ,
+"colcount": 5,
+"rows": 4148
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMLBL",
+"tabtext": "JC.ITMLBL   Item Label Description Master File",
+"type": "View",
+"createdate": "2001-05-10" ,
+"colcount": 12,
+"rows": 146665
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMLMS",
+"tabtext": "IG.ITMLMS   Item warehouse location master file",
+"type": "View",
+"createdate": "2000-02-01" ,
+"colcount": 18,
+"rows": 634472
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMLOCSQL",
+"tabtext": "IF.ITMLOC   Inventry Whs Location for Multi Loc",
+"type": "Table",
+"createdate": "2011-03-19" ,
+"colcount": 22,
+"rows": 696722
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMMDL",
+"tabtext": "Item Model Number File - for U Items",
+"type": "View",
+"createdate": "2000-04-26" ,
+"colcount": 25,
+"rows": 19462
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMMOM",
+"tabtext": "MR.ITMMOM  "Mother Roll" Master",
+"type": "View",
+"createdate": "1995-06-16" ,
+"colcount": 6,
+"rows": 129
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMMSTSQL",
+"tabtext": "IM.ITMMST   Item Master File**",
+"type": "Table",
+"createdate": "2013-07-24" ,
+"colcount": 82,
+"rows": 141264
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMMST2SQL",
+"tabtext": "IM.ITMMST   Item Master File #2",
+"type": "Table",
+"createdate": "2013-07-24" ,
+"colcount": 37,
+"rows": 141264
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMPLISQL",
+"tabtext": "Item Private Label Information",
+"type": "Table",
+"createdate": "2013-07-24" ,
+"colcount": 25,
+"rows": 98875
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMPRCSQL",
+"tabtext": "IJ.ITMPRC   Catalog/Item Price File",
+"type": "Table",
+"createdate": "2014-10-09" ,
+"colcount": 49,
+"rows": 2342261
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMREC",
+"tabtext": "IR.ITMREC  Item receiving batch (A.RECDET)**",
+"type": "View",
+"createdate": "1998-04-19" ,
+"colcount": 45,
+"rows": 33746636
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMRP",
+"tabtext": "Item Repack File",
+"type": "View",
+"createdate": "1999-11-08" ,
+"colcount": 6,
+"rows": 20386
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMRPKINF",
+"tabtext": "Item Repack Information",
+"type": "View",
+"createdate": "2007-08-05" ,
+"colcount": 11,
+"rows": 695
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMRTCNV",
+"tabtext": "CONVERSION PRODUCTS RATE",
+"type": "Table",
+"createdate": "2013-09-18" ,
+"colcount": 6,
+"rows": 7604
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMRWHSQL",
+"tabtext": "JB.ITMRWH   Item regional stocking wareh",
+"type": "Table",
+"createdate": "2014-10-09" ,
+"colcount": 12,
+"rows": 129099
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMSMI",
+"tabtext": "Item Private Label Special Marking Information",
+"type": "View",
+"createdate": "1999-09-14" ,
+"colcount": 4,
+"rows": 27293
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMSTD",
+"tabtext": "Item STANDARD Cost file",
+"type": "View",
+"createdate": "2000-05-31" ,
+"colcount": 18,
+"rows": 2439404
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMTAP",
+"tabtext": "JT.ITMTAP   TAPE Item's Assoc "PLATE CHARGE" Item#",
+"type": "View",
+"createdate": "1998-11-04" ,
+"colcount": 3,
+"rows": 396
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMTID",
+"tabtext": "PK.ITMTID  Item Truck ID",
+"type": "View",
+"createdate": "1996-04-30" ,
+"colcount": 12,
+"rows": 398
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMUSG",
+"tabtext": "UB.ITMUSG   Item Usage File",
+"type": "View",
+"createdate": "1997-09-03" ,
+"colcount": 5,
+"rows": 19
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMVENAUDS",
+"tabtext": "IV.ITMVEN   AUDIT Trail: AFTER Image",
+"type": "Table",
+"createdate": "2013-07-24" ,
+"colcount": 49,
+"rows": 2711751
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMVENSQL",
+"tabtext": "IV.ITMVEN   Item/Vendor File**",
+"type": "Table",
+"createdate": "2013-07-24" ,
+"colcount": 46,
+"rows": 208476
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMVEN2SQL",
+"tabtext": "Item Vendor File 2 - Augmentation File",
+"type": "Table",
+"createdate": "2013-07-24" ,
+"colcount": 20,
+"rows": 208497
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITMWAR",
+"tabtext": "ITMWAR",
+"type": "View",
+"createdate": "2002-01-18" ,
+"colcount": 21,
+"rows": 3577
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITM102PF",
+"tabtext": "Item Mandatory Warehouse",
+"type": "Table",
+"createdate": "2011-09-16" ,
+"colcount": 9,
+"rows": 33595
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITM104PF",
+"tabtext": "Item Substitution and Restriction",
+"type": "Table",
+"createdate": "2013-11-01" ,
+"colcount": 9,
+"rows": 1747
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITM105PF",
+"tabtext": "Geographic Substitution and Restriction",
+"type": "Table",
+"createdate": "2013-11-01" ,
+"colcount": 10,
+"rows": 202
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ITM106PF",
+"tabtext": "Geographic Master Code",
+"type": "Table",
+"createdate": "2013-11-01" ,
+"colcount": 8,
+"rows": 58
+}, 
+{
+"schema": "USERCVT",
+"tabname": "IT008CCP",
+"tabtext": "File with Credit Card Prefixes to Hold",
+"type": "View",
+"createdate": "2006-02-03" ,
+"colcount": 6,
+"rows": 3
+}, 
+{
+"schema": "USERCVT",
+"tabname": "KEYSQI",
+"tabtext": "Salesman Quote  "Item Description" Index",
+"type": "View",
+"createdate": "2002-12-04" ,
+"colcount": 3,
+"rows": 343082236
+}, 
+{
+"schema": "USERCVT",
+"tabname": "LCSHIP",
+"tabtext": "Z1.LCSHIP  Lake County Shipping Chg Limits/Rates",
+"type": "View",
+"createdate": "2000-12-26" ,
+"colcount": 5,
+"rows": 8
+}, 
+{
+"schema": "USERCVT",
+"tabname": "LEADTIME",
+"tabtext": "Consolidated Lead Time Table for OMS",
+"type": "View",
+"createdate": "2008-01-07" ,
+"colcount": 8,
+"rows": 8714777
+}, 
+{
+"schema": "USERCVT",
+"tabname": "LEDTMECA",
+"tabtext": "Canada 10 Digit Zip Lead Times - by whs",
+"type": "View",
+"createdate": "2009-06-21" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "USERCVT",
+"tabname": "LEDTMEIN",
+"tabtext": "INTL       10 Digit Zip Lead Times - by whs",
+"type": "View",
+"createdate": "2005-01-19" ,
+"colcount": 6,
+"rows": 4834741
+}, 
+{
+"schema": "USERCVT",
+"tabname": "LOCSIZ",
+"tabtext": "JD.LOCSIZ    Bin size by whse/aisle",
+"type": "View",
+"createdate": "2001-07-02" ,
+"colcount": 17,
+"rows": 23641
+}, 
+{
+"schema": "USERCVT",
+"tabname": "LSTCAT",
+"tabtext": "List Category Descriptions",
+"type": "View",
+"createdate": "1996-08-02" ,
+"colcount": 2,
+"rows": 68
+}, 
+{
+"schema": "USERCVT",
+"tabname": "LSTCOD",
+"tabtext": "List Code Descriptions",
+"type": "View",
+"createdate": "1999-11-02" ,
+"colcount": 3,
+"rows": 2527
+}, 
+{
+"schema": "USERCVT",
+"tabname": "MBXREFSQL",
+"tabtext": "Match Back Xref File",
+"type": "Table",
+"createdate": "2016-04-03" ,
+"colcount": 15,
+"rows": 116279253
+}, 
+{
+"schema": "USERCVT",
+"tabname": "MKTCLS",
+"tabtext": "MKTG ITEM CLASS Master file",
+"type": "View",
+"createdate": "2003-01-23" ,
+"colcount": 4,
+"rows": 51
+}, 
+{
+"schema": "USERCVT",
+"tabname": "MKTGRP",
+"tabtext": "MKTG CLASS to Item Group Xref - Master file",
+"type": "View",
+"createdate": "2003-01-23" ,
+"colcount": 2,
+"rows": 527
+}, 
+{
+"schema": "USERCVT",
+"tabname": "MLRESN",
+"tabtext": "Mail List Reason File                          ml",
+"type": "View",
+"createdate": "2006-05-25" ,
+"colcount": 4,
+"rows": 23
+}, 
+{
+"schema": "USERCVT",
+"tabname": "MSGIF",
+"tabtext": "Item Message File",
+"type": "View",
+"createdate": "2004-06-16" ,
+"colcount": 11,
+"rows": 10517
+}, 
+{
+"schema": "USERCVT",
+"tabname": "MSHDRSQL",
+"tabtext": "Multiple Shipment Header",
+"type": "Table",
+"createdate": "2015-02-25" ,
+"colcount": 67,
+"rows": 32201373
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORAPINVC",
+"tabtext": "Oracle AP Invoice Transactions",
+"type": "View",
+"createdate": "2005-07-08" ,
+"colcount": 108,
+"rows": 8067847
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORATRNDL",
+"tabtext": "GL Trans Action Data Extract From Oracle",
+"type": "View",
+"createdate": "2007-06-10" ,
+"colcount": 38,
+"rows": 12518454
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDACTSQL",
+"tabtext": "Order Activity File",
+"type": "Table",
+"createdate": "2015-07-28" ,
+"colcount": 15,
+"rows": 145188805
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDDET",
+"tabtext": "OD.ORDDET  Order Detail File**",
+"type": "View",
+"createdate": "2002-07-28" ,
+"colcount": 49,
+"rows": 89070992
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDDRP",
+"tabtext": "DC.ORDDRP  Drop Ship Order Detail Message File",
+"type": "View",
+"createdate": "1999-07-08" ,
+"colcount": 46,
+"rows": 460573
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDDRP2",
+"tabtext": "DC.ORDDRP Drop Ship Order Detail Extension File",
+"type": "View",
+"createdate": "2008-03-24" ,
+"colcount": 59,
+"rows": 536242
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDDSN",
+"tabtext": "DN.ORDDSN   Drop Ship Custom Notes",
+"type": "View",
+"createdate": "2001-01-11" ,
+"colcount": 10,
+"rows": 1844999
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDERD",
+"tabtext": "DD.ORDERD  Order entry item lines**",
+"type": "View",
+"createdate": "2008-02-18" ,
+"colcount": 33,
+"rows": 175957
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDERH",
+"tabtext": "DH.ORDERH  Order entry name & address**",
+"type": "View",
+"createdate": "2008-02-18" ,
+"colcount": 80,
+"rows": 160257
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDERHWCSQ",
+"tabtext": "Internet order header",
+"type": "Table",
+"createdate": "2014-02-06" ,
+"colcount": 84,
+"rows": 35238426
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDFAX",
+"tabtext": "Order Fax Message File",
+"type": "View",
+"createdate": "2010-03-19" ,
+"colcount": 13,
+"rows": 5396
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDHDR",
+"tabtext": "OH.ORDHDR  Order Header File**",
+"type": "View",
+"createdate": "1997-06-15" ,
+"colcount": 79,
+"rows": 55500920
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDMSG",
+"tabtext": "OM.ORDMSG  Order messages**",
+"type": "View",
+"createdate": "2008-02-18" ,
+"colcount": 16,
+"rows": 26147684
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDMSGB",
+"tabtext": "BL.ORDMSG  BOL messages**",
+"type": "View",
+"createdate": "2006-06-22" ,
+"colcount": 17,
+"rows": 16210872
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDPOR",
+"tabtext": "Requested purchase orders",
+"type": "View",
+"createdate": "2001-01-31" ,
+"colcount": 13,
+"rows": 48759
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDQITM",
+"tabtext": "DE.ORDQITM "QUOTE" Item # messages",
+"type": "View",
+"createdate": "2001-05-23" ,
+"colcount": 17,
+"rows": 9509
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDQMS",
+"tabtext": "DM.ORDQMS   Order Quote message file",
+"type": "View",
+"createdate": "1997-06-14" ,
+"colcount": 7,
+"rows": 157394
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDQTDAUD",
+"tabtext": "Order Quotes -Detail - Audit Trail",
+"type": "View",
+"createdate": "2004-05-18" ,
+"colcount": 54,
+"rows": 42832502
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDQTDSQL",
+"tabtext": "ORDQTDSQL - Order Quotes Detail Table",
+"type": "Table",
+"createdate": "2015-06-01" ,
+"colcount": 56,
+"rows": 2769604
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDQTE",
+"tabtext": "Order Quote - Attaching orders to Quotes",
+"type": "View",
+"createdate": "2004-03-31" ,
+"colcount": 13,
+"rows": 8015972
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDQTHSQL",
+"tabtext": "ORDQTHSQL - Order Quotes Header Table",
+"type": "Table",
+"createdate": "2015-06-01" ,
+"colcount": 47,
+"rows": 231625
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDRMS",
+"tabtext": "DA.ORDRMS   Custom Item To Read Msg File",
+"type": "View",
+"createdate": "1997-06-14" ,
+"colcount": 7,
+"rows": 2385409
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDSHI",
+"tabtext": "Custom Item Ship Instruction File",
+"type": "View",
+"createdate": "1999-12-13" ,
+"colcount": 8,
+"rows": 17129
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDSMS",
+"tabtext": "DB.ORDSMS   Custom Item Spec Instruction Msg File",
+"type": "View",
+"createdate": "1997-06-14" ,
+"colcount": 10,
+"rows": 1750119
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDSPLD",
+"tabtext": "EL.ORDSPLD  Order Special Detail File",
+"type": "View",
+"createdate": "2002-06-12" ,
+"colcount": 47,
+"rows": 72821
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDSPLG",
+"tabtext": "EK.ORDSPLG  Order Special Group File",
+"type": "View",
+"createdate": "2002-06-12" ,
+"colcount": 25,
+"rows": 10395
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDSPLH",
+"tabtext": "EJ.ORDSPLH  Order Special Header File",
+"type": "View",
+"createdate": "2002-06-14" ,
+"colcount": 57,
+"rows": 711
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ORDSPLS",
+"tabtext": "EM.ORDSPLS  Order Special Selection File",
+"type": "View",
+"createdate": "2008-02-18" ,
+"colcount": 42,
+"rows": 3038167
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PACKER",
+"tabtext": "ZF.PACKER Packer ID codes & description",
+"type": "View",
+"createdate": "1995-10-06" ,
+"colcount": 4,
+"rows": 13239
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PKCHKPF",
+"tabtext": "Workfile for Picker Summary Report",
+"type": "View",
+"createdate": "2009-12-09" ,
+"colcount": 15,
+"rows": 86189827
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PKRSTAT",
+"tabtext": "PS.Uline: Picker/Packer Tracking File",
+"type": "View",
+"createdate": "2004-03-31" ,
+"colcount": 19,
+"rows": 11300074
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PK001PF",
+"tabtext": "Picker Summary Batch - Detail Table",
+"type": "View",
+"createdate": "2007-02-06" ,
+"colcount": 34,
+"rows": 7676709
+}, 
+{
+"schema": "USERCVT",
+"tabname": "POBUY",
+"tabtext": "PS.POBUY  Purchasing buyer name table",
+"type": "View",
+"createdate": "1999-08-30" ,
+"colcount": 8,
+"rows": 218
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PODETSQL",
+"tabtext": "PD.PODET  Purchase Order Detail",
+"type": "Table",
+"createdate": "2014-08-07" ,
+"colcount": 39,
+"rows": 14397126
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PODET2",
+"tabtext": "Purchase Order Detail File 2",
+"type": "View",
+"createdate": "2005-10-11" ,
+"colcount": 7,
+"rows": 224768
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PODSF",
+"tabtext": "Purchase Order - Drop Ship Detail File",
+"type": "View",
+"createdate": "2008-02-18" ,
+"colcount": 30,
+"rows": 459555
+}, 
+{
+"schema": "USERCVT",
+"tabname": "POHDRSQL",
+"tabtext": "PH.POHDR  Purchase Order Header",
+"type": "Table",
+"createdate": "2014-08-07" ,
+"colcount": 31,
+"rows": 1418702
+}, 
+{
+"schema": "USERCVT",
+"tabname": "POHISTSQL",
+"tabtext": "PJ.POHIST  Purchase order receiving hist",
+"type": "Table",
+"createdate": "2016-05-02" ,
+"colcount": 53,
+"rows": 26974397
+}, 
+{
+"schema": "USERCVT",
+"tabname": "POIMSG",
+"tabtext": "PI.POIMSG   P.O. item message file",
+"type": "View",
+"createdate": "1997-11-23" ,
+"colcount": 7,
+"rows": 141130
+}, 
+{
+"schema": "USERCVT",
+"tabname": "POSHIFT",
+"tabtext": "PO Shift File",
+"type": "View",
+"createdate": "2002-09-19" ,
+"colcount": 3,
+"rows": 2693967
+}, 
+{
+"schema": "USERCVT",
+"tabname": "POSHIP",
+"tabtext": "PT.POSHIP Purchase order shipto vendor by warehse",
+"type": "View",
+"createdate": "1994-03-15" ,
+"colcount": 3,
+"rows": 59
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PO041DBG",
+"tabtext": "PO041 Debug record",
+"type": "View",
+"createdate": "2003-11-26" ,
+"colcount": 19,
+"rows": 5235921
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PRDCDE",
+"tabtext": "Item/Product Code Table for Regrouping",
+"type": "View",
+"createdate": "1997-10-16" ,
+"colcount": 2,
+"rows": 39667
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PRDCLS",
+"tabtext": "PRODUCT CLASS Master file",
+"type": "View",
+"createdate": "1996-01-05" ,
+"colcount": 3,
+"rows": 17
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PRDMGR",
+"tabtext": "Product Manager Master File",
+"type": "View",
+"createdate": "2000-07-07" ,
+"colcount": 5,
+"rows": 70
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PRDMGRX",
+"tabtext": "Product Manager / Xref File",
+"type": "View",
+"createdate": "2004-09-02" ,
+"colcount": 3,
+"rows": 70
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PURRTG",
+"tabtext": "Purolator Routing Codes",
+"type": "View",
+"createdate": "2005-01-18" ,
+"colcount": 4,
+"rows": 20630
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PUR060",
+"tabtext": "Import_BOL_Data",
+"type": "Table",
+"createdate": "2013-05-24" ,
+"colcount": 22,
+"rows": 17089
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PUR061",
+"tabtext": "Import_Container_Data",
+"type": "Table",
+"createdate": "2013-05-24" ,
+"colcount": 12,
+"rows": 26650
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PUR062",
+"tabtext": "Import_Purchase_Order_Data",
+"type": "Table",
+"createdate": "2013-05-24" ,
+"colcount": 9,
+"rows": 23615
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PUR063",
+"tabtext": "Import_Container_PO_Relationship",
+"type": "Table",
+"createdate": "2013-05-24" ,
+"colcount": 5,
+"rows": 28315
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PUR064",
+"tabtext": "Import_Broker_Data",
+"type": "Table",
+"createdate": "2013-11-15" ,
+"colcount": 8,
+"rows": 2
+}, 
+{
+"schema": "USERCVT",
+"tabname": "PUR065",
+"tabtext": "Import_Tracking_Container_Codes",
+"type": "Table",
+"createdate": "2013-11-15" ,
+"colcount": 7,
+"rows": 16
+}, 
+{
+"schema": "USERCVT",
+"tabname": "QTEAUD",
+"tabtext": "Quotes Engine Audit Log",
+"type": "Table",
+"createdate": "2015-07-08" ,
+"colcount": 102,
+"rows": 28306049
+}, 
+{
+"schema": "USERCVT",
+"tabname": "QUOTFBAKSQ",
+"tabtext": "Quotes feed back from the web",
+"type": "Table",
+"createdate": "2011-06-18" ,
+"colcount": 17,
+"rows": 107030
+}, 
+{
+"schema": "USERCVT",
+"tabname": "QUOTREM",
+"tabtext": "Quotes Reminder file '",
+"type": "View",
+"createdate": "2009-05-24" ,
+"colcount": 16,
+"rows": 893943
+}, 
+{
+"schema": "USERCVT",
+"tabname": "QUOWNR",
+"tabtext": "QO.QUOWNR   Quote Owner Master",
+"type": "View",
+"createdate": "2000-02-26" ,
+"colcount": 15,
+"rows": 965
+}, 
+{
+"schema": "USERCVT",
+"tabname": "QUOWNR2",
+"tabtext": "Q2.QUOWNR2  Quote Owner Extension",
+"type": "View",
+"createdate": "2007-05-11" ,
+"colcount": 17,
+"rows": 1
+}, 
+{
+"schema": "USERCVT",
+"tabname": "RCFAULTSQL",
+"tabtext": "RECEIVING COMMENTS FAULTS",
+"type": "Table",
+"createdate": "2011-06-18" ,
+"colcount": 3,
+"rows": 4
+}, 
+{
+"schema": "USERCVT",
+"tabname": "RCFOLLOSQL",
+"tabtext": "Receiving Comments Followup",
+"type": "Table",
+"createdate": "2011-06-18" ,
+"colcount": 5,
+"rows": 357820
+}, 
+{
+"schema": "USERCVT",
+"tabname": "RCITEMSQL",
+"tabtext": "Receiving Comment Items",
+"type": "Table",
+"createdate": "2011-06-18" ,
+"colcount": 18,
+"rows": 375365
+}, 
+{
+"schema": "USERCVT",
+"tabname": "RCMAINSQL",
+"tabtext": "Receiving Comments Main",
+"type": "Table",
+"createdate": "2011-06-18" ,
+"colcount": 35,
+"rows": 288797
+}, 
+{
+"schema": "USERCVT",
+"tabname": "RCPRIORITY",
+"tabtext": "Receiving priority Id file",
+"type": "View",
+"createdate": "2009-05-07" ,
+"colcount": 5,
+"rows": 3
+}, 
+{
+"schema": "USERCVT",
+"tabname": "RCPTFLE",
+"tabtext": "Receipt File",
+"type": "View",
+"createdate": "2005-11-28" ,
+"colcount": 9,
+"rows": 1437442
+}, 
+{
+"schema": "USERCVT",
+"tabname": "RCTYPESQL",
+"tabtext": "Receiving Comment Types",
+"type": "Table",
+"createdate": "2011-06-18" ,
+"colcount": 4,
+"rows": 13
+}, 
+{
+"schema": "USERCVT",
+"tabname": "REACDESQL",
+"tabtext": "Backorder Reason Codes",
+"type": "Table",
+"createdate": "2011-11-04" ,
+"colcount": 7,
+"rows": 99
+}, 
+{
+"schema": "USERCVT",
+"tabname": "REPAIR",
+"tabtext": "ES.REPAIR  Repair Operations",
+"type": "View",
+"createdate": "2002-07-22" ,
+"colcount": 20,
+"rows": 658688
+}, 
+{
+"schema": "USERCVT",
+"tabname": "REPAIRC",
+"tabtext": "RC.REPAIR  Repair Detail Comments",
+"type": "View",
+"createdate": "2002-11-19" ,
+"colcount": 11,
+"rows": 49625
+}, 
+{
+"schema": "USERCVT",
+"tabname": "REPAIRD",
+"tabtext": "RD.REPAIR  Repair Detail",
+"type": "View",
+"createdate": "2002-11-19" ,
+"colcount": 20,
+"rows": 55815
+}, 
+{
+"schema": "USERCVT",
+"tabname": "REPCDE",
+"tabtext": "RC.REPCDE  Repair Codes",
+"type": "View",
+"createdate": "2002-07-23" ,
+"colcount": 4,
+"rows": 17
+}, 
+{
+"schema": "USERCVT",
+"tabname": "REQQTDSQL",
+"tabtext": "REQQTDSQL - Request For Quote Detail Table",
+"type": "Table",
+"createdate": "2015-06-01" ,
+"colcount": 76,
+"rows": 473851
+}, 
+{
+"schema": "USERCVT",
+"tabname": "REQQTHSQL",
+"tabtext": "REQQTHSQL - Request For Quote Header Table",
+"type": "Table",
+"createdate": "2015-06-01" ,
+"colcount": 75,
+"rows": 280050
+}, 
+{
+"schema": "USERCVT",
+"tabname": "REQVCD",
+"tabtext": "RV.REQVCD   Vendor COMPETITOR Req Qu Line Detail",
+"type": "View",
+"createdate": "2002-01-10" ,
+"colcount": 28,
+"rows": 19691
+}, 
+{
+"schema": "USERCVT",
+"tabname": "REQVCN",
+"tabtext": "RU.REQVCN   Vendor COMPETITOR Name Master file",
+"type": "View",
+"createdate": "2002-01-02" ,
+"colcount": 18,
+"rows": 369
+}, 
+{
+"schema": "USERCVT",
+"tabname": "RETRNSQL",
+"tabtext": "IS.RETURN  Item Returns",
+"type": "Table",
+"createdate": "2011-03-19" ,
+"colcount": 48,
+"rows": 934685
+}, 
+{
+"schema": "USERCVT",
+"tabname": "RETRN2",
+"tabtext": "IS.RETURN  Item Returns",
+"type": "View",
+"createdate": "2002-08-04" ,
+"colcount": 19,
+"rows": 1275196
+}, 
+{
+"schema": "USERCVT",
+"tabname": "RQT100AC",
+"tabtext": "Quote Activity Code Master File",
+"type": "Table",
+"createdate": "2010-07-26" ,
+"colcount": 9,
+"rows": 17
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SALDETCA",
+"tabtext": "OT.SALDETCA  Invoice Sales Detail File - CANADA",
+"type": "View",
+"createdate": "2008-01-31" ,
+"colcount": 74,
+"rows": 9614889
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SALDETSQL",
+"tabtext": "OT.SALDET  Invoice Sales Detail File",
+"type": "Table",
+"createdate": "2014-05-09" ,
+"colcount": 68,
+"rows": 88012669
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SALSUM",
+"tabtext": "SU.SALSUM Sales Summary File",
+"type": "View",
+"createdate": "2009-02-10" ,
+"colcount": 14,
+"rows": 13623957
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SCRIPT",
+"tabtext": "SCript File",
+"type": "View",
+"createdate": "2001-03-13" ,
+"colcount": 4,
+"rows": 600
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHIPARAY",
+"tabtext": "Item, Warehouse and Shipments Array",
+"type": "View",
+"createdate": "2003-08-27" ,
+"colcount": 1204,
+"rows": 367943
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPADD",
+"tabtext": "OZ.VIAADD Additional via charges/flags",
+"type": "View",
+"createdate": "2000-11-10" ,
+"colcount": 29,
+"rows": 11
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPADDFRT",
+"tabtext": "Additional via charges/flags - frt",
+"type": "View",
+"createdate": "2006-02-20" ,
+"colcount": 17,
+"rows": 4
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPCHRG",
+"tabtext": "Joe Multiple Shipment Charge Table",
+"type": "Table",
+"createdate": "2008-07-11" ,
+"colcount": 7,
+"rows": 76710945
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPDSRTE",
+"tabtext": "Drop Ship Items - Shipping Rate Estimates",
+"type": "View",
+"createdate": "2001-05-30" ,
+"colcount": 18,
+"rows": 526753
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPDTASV1",
+"tabtext": "OP.SHPDTA  Order shipment print file -- backup",
+"type": "View",
+"createdate": "2004-08-09" ,
+"colcount": 57,
+"rows": 18455251
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPDTL",
+"tabtext": "Joe Multiple Shipment Detail Table",
+"type": "Table",
+"createdate": "2008-07-11" ,
+"colcount": 18,
+"rows": 46074588
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPPCK",
+"tabtext": "OP.SHPPCK  Order shipment print file",
+"type": "View",
+"createdate": "2001-06-18" ,
+"colcount": 23,
+"rows": 91126844
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPREGSQL",
+"tabtext": "OS.SHPREG Shipment Register",
+"type": "Table",
+"createdate": "2017-02-08" ,
+"colcount": 40,
+"rows": 42841076
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPRTA",
+"tabtext": "ZC.SHPRTA  Shipping Rates Without discount",
+"type": "View",
+"createdate": "1999-01-31" ,
+"colcount": 7,
+"rows": 345754
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPRTE",
+"tabtext": "ZC.SHPRTE  Shipping Rates (Ship Via,Zone,Wht)",
+"type": "View",
+"createdate": "1999-01-31" ,
+"colcount": 7,
+"rows": 424990
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPRTEBS",
+"tabtext": "base ship rate (without fuel)",
+"type": "View",
+"createdate": "2003-07-23" ,
+"colcount": 7,
+"rows": 359292
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPTOCOL",
+"tabtext": "Ship to Collect Freight information",
+"type": "View",
+"createdate": "2004-08-13" ,
+"colcount": 16,
+"rows": 204862
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPTOINF",
+"tabtext": "TF.SHPTOINF Ship to information",
+"type": "View",
+"createdate": "2001-12-05" ,
+"colcount": 12,
+"rows": 394087
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SHPVIASP",
+"tabtext": "Joe Multiple Shipment Via Table",
+"type": "Table",
+"createdate": "2008-10-27" ,
+"colcount": 34,
+"rows": 39109241
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SICMAS",
+"tabtext": "***SICMAST    SIC CODE MASTER FILE",
+"type": "View",
+"createdate": "1994-01-14" ,
+"colcount": 4,
+"rows": 1009
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SICMASFC",
+"tabtext": "SIC Code Master file - Foreign",
+"type": "View",
+"createdate": "2006-02-27" ,
+"colcount": 6,
+"rows": 2015
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SLSCAL",
+"tabtext": "Call Sheet Sales File",
+"type": "View",
+"createdate": "2000-02-16" ,
+"colcount": 13,
+"rows": 1042861
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SLSCALE",
+"tabtext": "Call Sheet Sales Extension file",
+"type": "View",
+"createdate": "2006-09-08" ,
+"colcount": 5,
+"rows": 1314218
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SLSCUS",
+"tabtext": "SL.SLSCUS  Sales Reps Customers",
+"type": "View",
+"createdate": "1997-07-23" ,
+"colcount": 7,
+"rows": 397065
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SLSDEMO",
+"tabtext": "Sales Demo Info",
+"type": "View",
+"createdate": "2004-07-05" ,
+"colcount": 6,
+"rows": 462596
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SLSQTDDLT",
+"tabtext": "SQ.SLSQTD  "Sales QUOTE" WORKSHEET Detail file",
+"type": "View",
+"createdate": "2006-04-10" ,
+"colcount": 64,
+"rows": 35428617
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SLSQTDSQL",
+"tabtext": "SLSQTDSQL - Sales Quote Worksheet Detail Table",
+"type": "Table",
+"createdate": "2015-06-01" ,
+"colcount": 71,
+"rows": 40523916
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SLSTER2",
+"tabtext": "New Salesman Territory File - 3 digit",
+"type": "View",
+"createdate": "2002-02-06" ,
+"colcount": 14,
+"rows": 346
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SOURCESQL",
+"tabtext": "SS.SOURCE  Source Code File**",
+"type": "Table",
+"createdate": "2011-09-30" ,
+"colcount": 41,
+"rows": 71125
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SRCMKT",
+"tabtext": "Marketing Details workfile:copy of saldet for MKT",
+"type": "View",
+"createdate": "2005-04-19" ,
+"colcount": 19,
+"rows": 231925790
+}, 
+{
+"schema": "USERCVT",
+"tabname": "STEMAS",
+"tabtext": "STATE Master file",
+"type": "View",
+"createdate": "1996-01-05" ,
+"colcount": 5,
+"rows": 51
+}, 
+{
+"schema": "USERCVT",
+"tabname": "SZNMAS",
+"tabtext": "Skip Zone Master",
+"type": "View",
+"createdate": "2004-07-28" ,
+"colcount": 41,
+"rows": 19
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TAX",
+"tabtext": "ZT.TAX     Tax Code File**",
+"type": "View",
+"createdate": "2002-04-16" ,
+"colcount": 18,
+"rows": 1787589
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TAXDETCASQ",
+"tabtext": "Tax Detail - Canada Only",
+"type": "Table",
+"createdate": "2013-05-15" ,
+"colcount": 38,
+"rows": 1528919
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TAXDETSQL",
+"tabtext": "Tax Detail - All",
+"type": "Table",
+"createdate": "2013-05-15" ,
+"colcount": 69,
+"rows": 172350769
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TAXEXNXSSQ",
+"tabtext": "Tax Exempt Nexus States",
+"type": "Table",
+"createdate": "2013-03-26" ,
+"colcount": 11,
+"rows": 36
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TAXHDRCASQ",
+"tabtext": "Tax Header - Canada Only",
+"type": "Table",
+"createdate": "2013-05-15" ,
+"colcount": 34,
+"rows": 237186
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TAXHDRSQL",
+"tabtext": "Tax Header - All",
+"type": "Table",
+"createdate": "2013-05-15" ,
+"colcount": 65,
+"rows": 42696684
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TAXOVR",
+"tabtext": "Sales Tax Rates Overrides",
+"type": "View",
+"createdate": "2006-10-06" ,
+"colcount": 12,
+"rows": 251685
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TITLECODE",
+"tabtext": "Title Codes and Descriptions - Lookup",
+"type": "View",
+"createdate": "2000-09-09" ,
+"colcount": 11,
+"rows": 218
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TRCQUESQL",
+"tabtext": "Trace Queue",
+"type": "Table",
+"createdate": "2011-06-12" ,
+"colcount": 38,
+"rows": 375760
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TRFBLK",
+"tabtext": "Items blocked from being Transferred",
+"type": "View",
+"createdate": "2002-10-03" ,
+"colcount": 9,
+"rows": 645
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TRFVAL",
+"tabtext": "Transfer "Values" master",
+"type": "View",
+"createdate": "2002-09-25" ,
+"colcount": 2,
+"rows": 3
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TRFVALTO",
+"tabtext": "Transfer Values for the "TO" Warehouse",
+"type": "View",
+"createdate": "2002-09-25" ,
+"colcount": 5,
+"rows": 9
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TRFXREF",
+"tabtext": "Transfer "Values" / CrossRef for Sub-Hub Handling",
+"type": "View",
+"createdate": "2002-09-25" ,
+"colcount": 6,
+"rows": 50
+}, 
+{
+"schema": "USERCVT",
+"tabname": "TRPOINFO",
+"tabtext": "Transfer Suggest Buy - PO Info",
+"type": "View",
+"createdate": "2010-03-13" ,
+"colcount": 15,
+"rows": 469967
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ULINEEMP",
+"tabtext": "Uline Employees file from SQL Server",
+"type": "View",
+"createdate": "2003-01-28" ,
+"colcount": 7,
+"rows": 5560
+}, 
+{
+"schema": "USERCVT",
+"tabname": "UNMSR",
+"tabtext": "IU.UNMSR   Unit of Measure File**",
+"type": "View",
+"createdate": "1993-12-16" ,
+"colcount": 4,
+"rows": 26
+}, 
+{
+"schema": "USERCVT",
+"tabname": "UNMSRCHG",
+"tabtext": "Unit of Measure Change - Trigger File",
+"type": "View",
+"createdate": "2001-08-24" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "USERCVT",
+"tabname": "UPS_RESZIP",
+"tabtext": "UPS Residential Zip Codes - Addl Charge Areas",
+"type": "View",
+"createdate": "2001-07-03" ,
+"colcount": 4,
+"rows": 213552
+}, 
+{
+"schema": "USERCVT",
+"tabname": "UPSEBILL",
+"tabtext": "UPS E Billing File Format - Upload from PC",
+"type": "View",
+"createdate": "2001-05-10" ,
+"colcount": 73,
+"rows": 31648328
+}, 
+{
+"schema": "USERCVT",
+"tabname": "UPSRTG",
+"tabtext": "UPS Routing Code File",
+"type": "View",
+"createdate": "2001-08-24" ,
+"colcount": 12,
+"rows": 43569
+}, 
+{
+"schema": "USERCVT",
+"tabname": "USGCOD",
+"tabtext": "Usage Code File",
+"type": "View",
+"createdate": "2005-08-29" ,
+"colcount": 3,
+"rows": 16
+}, 
+{
+"schema": "USERCVT",
+"tabname": "UTCODE",
+"tabtext": "Generic Code Master",
+"type": "View",
+"createdate": "2006-10-24" ,
+"colcount": 7,
+"rows": 332
+}, 
+{
+"schema": "USERCVT",
+"tabname": "VENCONTCT",
+"tabtext": "Vendor Contact File for Web",
+"type": "View",
+"createdate": "2004-09-01" ,
+"colcount": 17,
+"rows": 255
+}, 
+{
+"schema": "USERCVT",
+"tabname": "VENDDS",
+"tabtext": "Vendor Drop Ship File",
+"type": "View",
+"createdate": "2005-01-18" ,
+"colcount": 17,
+"rows": 269
+}, 
+{
+"schema": "USERCVT",
+"tabname": "VENDDSE",
+"tabtext": "Vendor Drop Ship File Extention",
+"type": "View",
+"createdate": "2006-09-08" ,
+"colcount": 9,
+"rows": 3
+}, 
+{
+"schema": "USERCVT",
+"tabname": "VENDLTME",
+"tabtext": "Vendor Lead Times",
+"type": "View",
+"createdate": "2003-08-21" ,
+"colcount": 12,
+"rows": 59794
+}, 
+{
+"schema": "USERCVT",
+"tabname": "VENDORR",
+"tabtext": "RV.VENDOR  Repair Vendor File",
+"type": "View",
+"createdate": "2002-11-19" ,
+"colcount": 18,
+"rows": 63
+}, 
+{
+"schema": "USERCVT",
+"tabname": "VENDORSQL",
+"tabtext": "PV.VENDOR  Vendor File**",
+"type": "Table",
+"createdate": "2013-07-24" ,
+"colcount": 73,
+"rows": 3355
+}, 
+{
+"schema": "USERCVT",
+"tabname": "VENDOR2SQL",
+"tabtext": "PV.VENDOR2 Vendor File ** Secondary **",
+"type": "Table",
+"createdate": "2013-07-24" ,
+"colcount": 16,
+"rows": 3165
+}, 
+{
+"schema": "USERCVT",
+"tabname": "VENMSG",
+"tabtext": "PG.VENMSG  P.O. vendor message file",
+"type": "View",
+"createdate": "1994-01-14" ,
+"colcount": 7,
+"rows": 10430
+}, 
+{
+"schema": "USERCVT",
+"tabname": "VERTEXTR01",
+"tabtext": "Vertex_Tax_requests",
+"type": "Table",
+"createdate": "2014-09-12" ,
+"colcount": 42,
+"rows": 11266927
+}, 
+{
+"schema": "USERCVT",
+"tabname": "VIAHOLIDAY",
+"tabtext": "Via Holiday File",
+"type": "View",
+"createdate": "2003-12-11" ,
+"colcount": 11,
+"rows": 3175
+}, 
+{
+"schema": "USERCVT",
+"tabname": "VIAWHSSQL",
+"tabtext": "Via Warehouse Xref",
+"type": "Table",
+"createdate": "2014-10-09" ,
+"colcount": 9,
+"rows": 5448
+}, 
+{
+"schema": "USERCVT",
+"tabname": "VIAXREFSQL",
+"tabtext": "JV.VIAXREF   Via cross reference file",
+"type": "Table",
+"createdate": "2012-11-15" ,
+"colcount": 32,
+"rows": 169
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WEBCLS",
+"tabtext": "WEB ITEM CLASS Master file",
+"type": "View",
+"createdate": "2000-04-26" ,
+"colcount": 10,
+"rows": 36
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WEBGRP",
+"tabtext": "PRODUCT CLASS Master file",
+"type": "View",
+"createdate": "2000-04-26" ,
+"colcount": 2,
+"rows": 511
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WFOE55WK",
+"tabtext": "SALDET for WFOE55",
+"type": "View",
+"createdate": "1996-12-13" ,
+"colcount": 21,
+"rows": 51558798
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WHDOCKSQL",
+"tabtext": "Warehouse Docks",
+"type": "Table",
+"createdate": "2014-10-09" ,
+"colcount": 10,
+"rows": 1570
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WHSCNTCT",
+"tabtext": "WC.WHSCNTCT - Warehouse Contact File",
+"type": "View",
+"createdate": "2008-10-10" ,
+"colcount": 18,
+"rows": 124
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WHSCTRL",
+"tabtext": "WT.WHSCTRL  Warehouse Control",
+"type": "View",
+"createdate": "2003-01-27" ,
+"colcount": 10,
+"rows": 9662
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WHSMASSQL",
+"tabtext": "WD.WHSMAS   Warehouse Master File",
+"type": "Table",
+"createdate": "2014-10-09" ,
+"colcount": 14,
+"rows": 67
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WHSMSTSQL",
+"tabtext": "WZ.WHSMST   Warehouse Master file",
+"type": "Table",
+"createdate": "2014-10-09" ,
+"colcount": 128,
+"rows": 67
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WHSPCTRSV",
+"tabtext": "Warehouse - % reserve for OE005",
+"type": "View",
+"createdate": "2002-04-06" ,
+"colcount": 3,
+"rows": 51
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WHS004DC",
+"tabtext": "Velocity code file",
+"type": "View",
+"createdate": "2010-02-28" ,
+"colcount": 12,
+"rows": 190
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WHS005DCSQ",
+"tabtext": "Warehouse storage requirement file",
+"type": "Table",
+"createdate": "2014-10-09" ,
+"colcount": 26,
+"rows": 348
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WHS006DCSQ",
+"tabtext": "Warehouse Item Storage requirement file",
+"type": "Table",
+"createdate": "2014-10-09" ,
+"colcount": 16,
+"rows": 79677
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WHS008PF",
+"tabtext": "Velocity Zone Codes File",
+"type": "Table",
+"createdate": "2013-08-18" ,
+"colcount": 11,
+"rows": 1748
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WHS020PF",
+"tabtext": "Whs Zip Code Switch Table",
+"type": "Table",
+"createdate": "2013-07-10" ,
+"colcount": 11,
+"rows": 472797
+}, 
+{
+"schema": "USERCVT",
+"tabname": "WHS130PF",
+"tabtext": "Pallet Layout Diagram (WHS)",
+"type": "Table",
+"createdate": "2012-11-15" ,
+"colcount": 15,
+"rows": 11512
+}, 
+{
+"schema": "USERCVT",
+"tabname": "YPDATA",
+"tabtext": "AA.YPDATA  Yellow Pages data",
+"type": "View",
+"createdate": "1999-01-13" ,
+"colcount": 19,
+"rows": 619707
+}, 
+{
+"schema": "USERCVT",
+"tabname": "YPDESC",
+"tabtext": "DY.YPDESC  Yellow Pages 800# descriptions",
+"type": "View",
+"createdate": "2000-05-12" ,
+"colcount": 13,
+"rows": 820
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZIPSTATE",
+"tabtext": "Country/Zip Code/State",
+"type": "View",
+"createdate": "2001-12-17" ,
+"colcount": 4,
+"rows": 180004
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZIPTER",
+"tabtext": "Sales territories by zip code",
+"type": "View",
+"createdate": "2002-02-06" ,
+"colcount": 5,
+"rows": 43608
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZIPTERIN",
+"tabtext": "Sales territories by International Code",
+"type": "View",
+"createdate": "2003-11-03" ,
+"colcount": 6,
+"rows": 36461
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZIPVIA",
+"tabtext": "ZX.ZIPVIA  Zip Code/Whse for via priority",
+"type": "View",
+"createdate": "1999-07-21" ,
+"colcount": 50,
+"rows": 883032
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZIPWHS",
+"tabtext": "ZW.ZIPWHS  Zip Code Excptns-f/Ordr out of CA MN",
+"type": "View",
+"createdate": "1994-06-07" ,
+"colcount": 13,
+"rows": 43617
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZIPWHSIN",
+"tabtext": "TW.ZIPWHSIN International Zip Warehouse file",
+"type": "View",
+"createdate": "2001-04-12" ,
+"colcount": 17,
+"rows": 32652
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZIPZON",
+"tabtext": "ZZ.ZIPZON   Zip Code Zone File**",
+"type": "View",
+"createdate": "1999-07-21" ,
+"colcount": 15,
+"rows": 302194
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZIPZON5",
+"tabtext": "ZO.ZIPZON5  Zip Code Zone File 5 digit zips",
+"type": "View",
+"createdate": "2000-05-31" ,
+"colcount": 8,
+"rows": 57615
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZACTVTY",
+"tabtext": "Item Master Activity Code Table",
+"type": "View",
+"createdate": "2000-07-26" ,
+"colcount": 3,
+"rows": 11
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZCSCRCD",
+"tabtext": "Customer Credit Codes Lookup",
+"type": "View",
+"createdate": "2005-11-10" ,
+"colcount": 7,
+"rows": 10
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZCSFIL1",
+"tabtext": "Internal Invoice Sort Code Table",
+"type": "View",
+"createdate": "2002-02-21" ,
+"colcount": 4,
+"rows": 3
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZCSFIL2",
+"tabtext": "Internal Customer Type Selection Table",
+"type": "View",
+"createdate": "2002-02-21" ,
+"colcount": 4,
+"rows": 0
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZCSFIL6",
+"tabtext": "Large Customer Group Code Table",
+"type": "View",
+"createdate": "2002-02-21" ,
+"colcount": 4,
+"rows": 6
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZCUSTYP",
+"tabtext": "Customer Type Codes and Descriptions",
+"type": "View",
+"createdate": "2004-04-12" ,
+"colcount": 6,
+"rows": 7
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZEMPSZ",
+"tabtext": "Employee size code xref file",
+"type": "View",
+"createdate": "2005-03-14" ,
+"colcount": 6,
+"rows": 10
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZHAZCD",
+"tabtext": "ZH.ZZHAZCD  Hazardous Item Codes",
+"type": "View",
+"createdate": "2003-03-14" ,
+"colcount": 2,
+"rows": 3
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZPAYTCD",
+"tabtext": "ZZPAYTCD",
+"type": "View",
+"createdate": "2007-11-08" ,
+"colcount": 5,
+"rows": 10
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZPMTC",
+"tabtext": "ZP.ZZPMTC  Payment code table",
+"type": "View",
+"createdate": "1994-02-14" ,
+"colcount": 3,
+"rows": 9
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZPRCTYP",
+"tabtext": "Price Types on ITMPRC lookup",
+"type": "View",
+"createdate": "2005-08-11" ,
+"colcount": 4,
+"rows": 4
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZQTEC",
+"tabtext": "Quote Codes",
+"type": "View",
+"createdate": "2004-07-27" ,
+"colcount": 5,
+"rows": 11
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZRTRN",
+"tabtext": "Zk.ZZRTrn  Return file",
+"type": "View",
+"createdate": "1994-09-01" ,
+"colcount": 3,
+"rows": 8
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZRTRN2",
+"tabtext": "ZR.ZZRTRN2  Secondary Return file",
+"type": "View",
+"createdate": "2002-08-18" ,
+"colcount": 5,
+"rows": 65
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZSALC",
+"tabtext": "ZS.ZZSALC  Sales codes & descriptions table**",
+"type": "View",
+"createdate": "1999-02-22" ,
+"colcount": 5,
+"rows": 18
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZVIAS",
+"tabtext": "ZV.VIAS Ship Via Codes & Description**",
+"type": "View",
+"createdate": "1996-06-11" ,
+"colcount": 12,
+"rows": 181
+}, 
+{
+"schema": "USERCVT",
+"tabname": "ZZVVIA",
+"tabtext": "Region/Country/State/Zipcode",
+"type": "View",
+"createdate": "2008-07-25" ,
+"colcount": 16,
+"rows": 1561006
+}
+]
