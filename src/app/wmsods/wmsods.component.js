@@ -13,9 +13,18 @@ var wmsodsComponent = (function () {
     function wmsodsComponent() {
     }
     wmsodsComponent.prototype.ngOnInit = function () {
+        //        this.sub = this._route.params.subscribe(
+        //    params => {
+        //       this._tabName = params['SchemaName'] || '' ;
+        //this.pageTitle = 'Viewing detailed information for ' + this.tableName;
     };
+    ;
     return wmsodsComponent;
 }());
+__decorate([
+    core_1.Input(),
+    __metadata("design:type", String)
+], wmsodsComponent.prototype, "_tabName", void 0);
 wmsodsComponent = __decorate([
     core_1.Component({
         selector: 'wmsods-app',
