@@ -1,5 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 
+import { ISchemaTabs } from '../SchemaTabs/schemaTabs';
+
+
 @Component({
   selector: 'welcome-app',
   templateUrl: './app/home/welcome.component.html',
@@ -11,5 +14,5 @@ export class WelcomeComponent implements OnInit {
 
   ngOnInit() {
   }
-
+    schematabs: ISchemaTabs[];
 }
