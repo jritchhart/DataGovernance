@@ -21,26 +21,35 @@ var SchemaObjectsService = (function () {
         this._wmosodsURL = 'api/schemaobjects/wmosods.json';
         this._UsercvtURL = 'api/schemaobjects/usercvt.json';
     }
-    SchemaObjectsService.prototype.getSchemaObjects = function (appType) {
-        this._appType = appType;
-        switch (this._appType) {
-            case 'WMOSODS':
+    SchemaObjectsService.prototype.getSchemaObjects = function (appType, tabName, schemaName) {
+        this._appType = tabName;
+        switch (this._appType.toUpperCase()) {
+            case 'WMSODS':
                 this._schemaobjectsUrl = this._wmosodsURL;
+                this._defaultSchema = 'api/schemaobjects/wmosods.json';
                 break;
             case 'LEGACY':
                 this._schemaobjectsUrl = this._UsercvtURL;
+                break;
+            case 'G2':
+                this._schemaobjectsUrl = this._UsercvtURL;
+                this._defaultSchema = 'api/schemaobjects/cmdb.json';
                 break;
             default:
                 this._schemaobjectsUrl = this._wmosodsURL;
                 break;
         }
+        if (schemaName != 'xxxxx' && schemaName != '')
+            this._schemaobjectsUrl = 'api/schemaobjects/' + schemaName.toLowerCase().trim() + '.json';
+        else
+            this._schemaobjectsUrl = this._defaultSchema;
         return this._http.get(this._schemaobjectsUrl)
             .map(function (response) { return response.json(); })
             .do(function (data) { return console.log('All: ' + JSON.stringify(data)); })
             .catch(this.handleError);
     };
-    SchemaObjectsService.prototype.getSchemaObject = function (id) {
-        return this.getSchemaObjects(this._appType)
+    SchemaObjectsService.prototype.getSchemaObject = function (id, tabName, schemaName) {
+        return this.getSchemaObjects(this._appType, tabName, schemaName)
             .map(function (schemaobjects) { return schemaobjects.find(function (p) { return p.tabname === id; }); });
     };
     SchemaObjectsService.prototype.handleError = function (error) {

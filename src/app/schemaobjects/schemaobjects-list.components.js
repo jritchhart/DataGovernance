@@ -9,21 +9,24 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require("@angular/core");
+var router_1 = require("@angular/router");
 var schemaobjects_service_1 = require("./schemaobjects.service");
 var schemaobjectsListComponent = (function () {
-    function schemaobjectsListComponent(_schemaobjectsService) {
+    function schemaobjectsListComponent(_schemaobjectsService, route) {
         this._schemaobjectsService = _schemaobjectsService;
         //pageTitle: string = 'WMS ODS TABLES AND VIEWS';
         this.imageWidth = 50;
         this.imageMargin = 2;
         this.showImage = false;
+        this._tabName = route.snapshot.params['id'];
+        this._schemaName = route.snapshot.params['id2'];
     }
     schemaobjectsListComponent.prototype.toggleImage = function () {
         this.showImage = !this.showImage;
     };
     schemaobjectsListComponent.prototype.ngOnInit = function () {
         var _this = this;
-        this._schemaobjectsService.getSchemaObjects(this.appType)
+        this._schemaobjectsService.getSchemaObjects(this.appType, this._tabName, this._schemaName)
             .subscribe(function (schemaobjects) { return _this.schemaobjects = schemaobjects; }, function (error) { return _this.errorMessage = error; });
     };
     schemaobjectsListComponent.prototype.onRatingClicked = function (message) {
@@ -45,7 +48,7 @@ schemaobjectsListComponent = __decorate([
         templateUrl: './app/schemaobjects/schemaobjects-list.component.html',
         styleUrls: ['./app/schemaobjects/schemaobjects-list.component.css']
     }),
-    __metadata("design:paramtypes", [schemaobjects_service_1.SchemaObjectsService])
+    __metadata("design:paramtypes", [schemaobjects_service_1.SchemaObjectsService, router_1.ActivatedRoute])
 ], schemaobjectsListComponent);
 exports.schemaobjectsListComponent = schemaobjectsListComponent;
 //# sourceMappingURL=schemaobjects-list.components.js.map

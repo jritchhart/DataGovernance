@@ -1,26 +1,15 @@
-<div class='panel panel-primary' >
-    <div class='panel-heading'>
-        {{pageTitle}}
-    </div>
 
-    <div class='panel-body'>
-        <p>
-            Tables and views contained in the WMOSODS schema represents a subset of WMS (Manhattan) data.  
-            This data is replicated "near-realtime" from all of the warehouses currently running on WMS.
-            Because all Data in these tables represents ALL warehouses on WMS, you must filter the data by
-            warehouse when queying the data.   This means specifying the ULINE_WHSCD = 'xx' in your WHERE clause
-            of your query.  xx = current warehouse.
-        </p>
-    </div>
+
 
     <!-- Filter the schemaobjectss   -->
-    <div class='panel-body'>
+
         <div class='row'>
             <div class='col-md-1' > <div class=font-weight: bold>Filter by:</div></div>
             <div class='col-md-4'>
                 <input type='text' [(ngModel)]='listFilter' />
             </div>
         </div>
+
         <div class='row' *ngIf='listFilter'>    
             <div class='col-md-6'>
                 <h3>Filtered by: {{listFilter}} </h3>
@@ -63,5 +52,4 @@
 
             </table>
         </div>
-    </div>
-</div>
+

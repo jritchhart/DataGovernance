@@ -11,6 +11,8 @@ import { ISchemaObjects } from './schemaobjects';
 
 @Injectable()
 export class SchemaObjectsService {
+    
+    private _defaultSchema: string;
     private _appType: string;
     private _schemaobjectsUrl: string;
     private _wmosodsURL = 'api/schemaobjects/wmosods.json';
@@ -18,19 +20,30 @@ export class SchemaObjectsService {
 
     constructor(private _http: Http) { }
 
-    getSchemaObjects(appType: string): Observable<ISchemaObjects[]> {
-        this._appType = appType;
-        switch (this._appType) {
-            case 'WMOSODS':
+    getSchemaObjects(appType: string, tabName: string, schemaName: string): Observable<ISchemaObjects[]> {
+        this._appType = tabName;
+        
+        switch (this._appType.toUpperCase()) {
+            case 'WMSODS':
                 this._schemaobjectsUrl = this._wmosodsURL;
+                this._defaultSchema = 'api/schemaobjects/wmosods.json';
                 break;
             case 'LEGACY':
                 this._schemaobjectsUrl = this._UsercvtURL;
+                break;
+            case 'G2':
+                this._schemaobjectsUrl = this._UsercvtURL;
+                this._defaultSchema = 'api/schemaobjects/cmdb.json';
                 break;
             default:
                 this._schemaobjectsUrl = this._wmosodsURL;
                 break;
         }
+
+        if (schemaName != 'xxxxx' && schemaName != '' )
+            this._schemaobjectsUrl = 'api/schemaobjects/' + schemaName.toLowerCase().trim() + '.json';
+        else
+            this._schemaobjectsUrl = this._defaultSchema;
 
 
         return this._http.get(this._schemaobjectsUrl)
@@ -39,8 +52,8 @@ export class SchemaObjectsService {
             .catch(this.handleError);
     }
 
-    getSchemaObject(id: string): Observable<ISchemaObjects> {
-        return this.getSchemaObjects(this._appType)
+    getSchemaObject(id: string, tabName: string, schemaName: string): Observable<ISchemaObjects> {
+        return this.getSchemaObjects(this._appType, tabName, schemaName)
             .map((schemaobjects: ISchemaObjects[]) => schemaobjects.find(p => p.tabname === id));
     }
 
