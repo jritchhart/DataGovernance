@@ -1,0 +1,474 @@
+[
+{
+"schema": "ORD     ",
+"tabname": "BILLNGTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "CARTORDRHDR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 49,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "CARTORDRHDRXTNSN",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 42,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "CARTORDRLINE",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 40,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "CARTORDRLINEXTNSN",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "CARTORDRTAX",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "CSTMDRPSHIP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 37,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "CSTMDRPSHIPINKCLR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "CSTMDRPSHIPXTNSN",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "CSTMITMTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "CSTMMSG",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 13,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "CSTMMSGLANGVAR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "CSTMMSGTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "CTLG",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "DRPSHIPINKCLR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "DRPSHIPORDRLINE",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 30,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "DRPSHIPORDRLINEMSG",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 12,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "DRPSHIPORDRLINEMSGLANGVAR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "DRPSHIPTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "FRGHTOVRRDTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "HNDLCHRGTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "INVCTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ITMTAXXMPTTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "MLTPLORDRLINESHIPMNTSMRYSHIPVIA",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "MLTPLSHIPMNT",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 17,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "MLTPLSHIPMNTADTNLDTL",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 19,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "MLTPLSHIPMNTPRCSNGTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "MLTPLSHIPMNTXTNSN",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 14,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "MSGTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDHDRT",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRCRDTCD",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRERRTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRFRGHTACSRLXREF",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 14,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRFRGHTACSRLXREFXTNSN",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRHDR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 49,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRHDRSRC",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRHDRXTNSN",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 42,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRHOLDTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRLINE",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 40,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRLINEMSG",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 12,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRLINEMSGLANGVAR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRLINESHIPINSTR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 12,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRLINESTS",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRLINEXTNSN",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRMSG",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 12,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRMSGLANGVAR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRSTS",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "ORDRTAX",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "OVRRDPRCTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "OVRRDQTSALETYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "PMTTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "QTSALETYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "SALECHNLTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "SHIPNGCHRGTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "SHIPVIAERRTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "SRCTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "TAXTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "ORD     ",
+"tabname": "UVW_IDENTITYC",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 3,
+"rows": -1
+}, 
+{
+"schema": "ORD     ",
+"tabname": "WHSE",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}
+]

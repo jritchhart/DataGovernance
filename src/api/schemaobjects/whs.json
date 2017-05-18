@@ -1,0 +1,82 @@
+[
+{
+"schema": "WHS     ",
+"tabname": "UVW_WMSDEVC",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "WHS     ",
+"tabname": "UVW_WMSDEVCRSNTYP",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 7,
+"rows": -1
+}, 
+{
+"schema": "WHS     ",
+"tabname": "UVW_WMSDEVCSTSTYP",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 7,
+"rows": -1
+}, 
+{
+"schema": "WHS     ",
+"tabname": "UVW_WMSDEVCTRANS",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "WHS     ",
+"tabname": "UVW_WMSDEVCUSR",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "WHS     ",
+"tabname": "WMSDEVC",
+"type": "Table",
+"createdate": "2016-10-12" ,
+"colcount": 12,
+"rows": 75
+}, 
+{
+"schema": "WHS     ",
+"tabname": "WMSDEVCRSNTYP",
+"type": "Table",
+"createdate": "2016-10-12" ,
+"colcount": 10,
+"rows": 7
+}, 
+{
+"schema": "WHS     ",
+"tabname": "WMSDEVCSTSTYP",
+"type": "Table",
+"createdate": "2016-10-12" ,
+"colcount": 10,
+"rows": 5
+}, 
+{
+"schema": "WHS     ",
+"tabname": "WMSDEVCTRANS",
+"type": "Table",
+"createdate": "2016-10-12" ,
+"colcount": 16,
+"rows": 2543
+}, 
+{
+"schema": "WHS     ",
+"tabname": "WMSDEVCUSR",
+"type": "Table",
+"createdate": "2016-10-12" ,
+"colcount": 12,
+"rows": 35
+}
+]

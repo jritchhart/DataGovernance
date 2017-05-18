@@ -1,0 +1,306 @@
+[
+{
+"schema": "CMDB    ",
+"tabname": "ASSET",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 24,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "ASSETCROSSREF",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 20,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "ASSETCTGRY",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "ASSETCTGRYCROSSREF",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 20,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "ASSETSTS",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "AV",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "BITVER",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "BKUPTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "BLDSTS",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "BSNSFNCTN",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "BSNSFNCTNHRCHY",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "CAPTLSTS",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "CMPUT",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 28,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "CMPUTSTORG",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "CMPUTSTS",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "CMPUTUSE",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "COPIER",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "DATACNTRRCK",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "DATACNTRROW",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "DRTIER",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "ENV",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "LBLTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "MONTR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "NTWRK",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "OPRTNLPRTY",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "PRT",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "PWR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "REBTSCHDL",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "RUNBKDOCSTS",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "SAN",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "SCNR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "STORG",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "SW",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "SWTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "SWVER",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "TEL",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": 0
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "UVW_IDENTITYC",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 3,
+"rows": -1
+}, 
+{
+"schema": "CMDB    ",
+"tabname": "WSUSSCHDL",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": 0
+}
+]

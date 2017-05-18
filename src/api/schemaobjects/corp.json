@@ -1,0 +1,378 @@
+[
+{
+"schema": "CORP    ",
+"tabname": "CMPNY",
+"type": "Table",
+"createdate": "2016-10-27" ,
+"colcount": 11,
+"rows": 7
+}, 
+{
+"schema": "CORP    ",
+"tabname": "CMPNYCROSSREF",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 24,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "DEPT",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "DEPTHRCHY",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 13,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "EXPTHRDWASSET",
+"type": "Table",
+"createdate": "2016-10-27" ,
+"colcount": 27,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "FLRPLN",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 15,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "GNDR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "HRCHYLVL",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 14,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "HRCHYMSTR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 12,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "JOBCTGRY",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "LCTN",
+"type": "Table",
+"createdate": "2016-10-27" ,
+"colcount": 16,
+"rows": 81
+}, 
+{
+"schema": "CORP    ",
+"tabname": "LCTNCROSSREF",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 24,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "LCTNLCTNUSE",
+"type": "Table",
+"createdate": "2016-10-27" ,
+"colcount": 10,
+"rows": 103
+}, 
+{
+"schema": "CORP    ",
+"tabname": "LCTNNATRTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "LCTNSTS",
+"type": "Table",
+"createdate": "2016-10-27" ,
+"colcount": 11,
+"rows": 4
+}, 
+{
+"schema": "CORP    ",
+"tabname": "LCTNUSE",
+"type": "Table",
+"createdate": "2016-10-27" ,
+"colcount": 11,
+"rows": 19
+}, 
+{
+"schema": "CORP    ",
+"tabname": "MNFCTR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "MNFCTRCROSSREF",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 23,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "MSTRLCTN",
+"type": "Table",
+"createdate": "2016-10-27" ,
+"colcount": 9,
+"rows": 102
+}, 
+{
+"schema": "CORP    ",
+"tabname": "MSTRLCTNNATRTYP",
+"type": "Table",
+"createdate": "2016-10-27" ,
+"colcount": 10,
+"rows": 7
+}, 
+{
+"schema": "CORP    ",
+"tabname": "PAYTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "PRSN",
+"type": "Table",
+"createdate": "2016-10-27" ,
+"colcount": 14,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "PRSNCROSSREF",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 23,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "PRSNJOBDTL",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 21,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "PRSNLOGINDATA",
+"type": "Table",
+"createdate": "2016-10-27" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "RGN",
+"type": "Table",
+"createdate": "2016-10-27" ,
+"colcount": 11,
+"rows": 20
+}, 
+{
+"schema": "CORP    ",
+"tabname": "RGNCROSSREF",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 24,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "RMTYP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "SHFT",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "TLMDATA",
+"type": "Table",
+"createdate": "2016-10-27" ,
+"colcount": 8,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_CMPNY",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_EXPTHRDWASSET",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 24,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_IDENTITYC",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 3,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_LCTN",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_LCTNLCTNUSE",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 7,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_LCTNSTS",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_LCTNUSE",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_MSTRLCTN",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 6,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_MSTRLCTNNATRTYP",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 7,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_PRSN",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_PRSNLOGINDATA",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_RGN",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_TLMDATA",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 5,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "UVW_ULINEEMP",
+"type": "View",
+"createdate": "2016-10-27" ,
+"colcount": 22,
+"rows": -1
+}, 
+{
+"schema": "CORP    ",
+"tabname": "VNDINTRNL",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "WHSE",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 16,
+"rows": 0
+}, 
+{
+"schema": "CORP    ",
+"tabname": "WHSERGN",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 0
+} 
+]

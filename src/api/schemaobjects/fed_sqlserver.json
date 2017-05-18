@@ -1,0 +1,34 @@
+[
+{
+"schema": "FED_SQLSERVER",
+"tabname": "EXPTHRDWASSET",
+"type": "View",
+"createdate": "2017-02-06" ,
+"colcount": 25,
+"rows": 31846
+}, 
+{
+"schema": "FED_SQLSERVER",
+"tabname": "PRSN",
+"type": "View",
+"createdate": "2017-02-06" ,
+"colcount": 13,
+"rows": 14603
+}, 
+{
+"schema": "FED_SQLSERVER",
+"tabname": "PRSNLOGINDATA",
+"type": "View",
+"createdate": "2017-02-06" ,
+"colcount": 12,
+"rows": 14603
+}, 
+{
+"schema": "FED_SQLSERVER",
+"tabname": "TLMDATA",
+"type": "View",
+"createdate": "2017-02-06" ,
+"colcount": 7,
+"rows": 14603
+} 
+]

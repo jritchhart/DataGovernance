@@ -1,38 +1,38 @@
 [
 {
-"schema": "CMDB    ",
+"schemaName": "CMDB    ",
 "ObjectCount": 38
 }, 
 {
-"schema": "CORP    ",
+"schemaName": "CORP    ",
 "ObjectCount": 96
 }, 
 {
-"schema": "CUS     ",
+"schemaName": "CUS     ",
 "ObjectCount": 57
 }, 
 {
-"schema": "DBA     ",
+"schemaName": "DBA     ",
 "ObjectCount": 3
 }, 
 {
-"schema": "FED_SQLSERVER",
+"schemaName": "FED_SQLSERVER",
 "ObjectCount": 4
 }, 
 {
-"schema": "FED_USPRD",
+"schemaName": "FED_USPRD",
 "ObjectCount": 10
 }, 
 {
-"schema": "ITM     ",
+"schemaName": "ITM     ",
 "ObjectCount": 437
 }, 
 {
-"schema": "ORD     ",
+"schemaName": "ORD     ",
 "ObjectCount": 59
 }, 
 {
-"schema": "WHS     ",
+"schemaName": "WHS     ",
 "ObjectCount": 15
 }
 ]

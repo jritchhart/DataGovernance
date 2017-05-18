@@ -1,0 +1,2522 @@
+[
+{
+"schema": "ITM     ",
+"tabname": "ATTRTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 15,
+"rows": 70
+}, 
+{
+"schema": "ITM     ",
+"tabname": "CNTRY",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 18,
+"rows": 242
+}, 
+{
+"schema": "ITM     ",
+"tabname": "CNTRYOFORGNMRKTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 4
+}, 
+{
+"schema": "ITM     ",
+"tabname": "CNTRY_HISTORYAE0gsJt",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 18,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "CONTNRTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 14
+}, 
+{
+"schema": "ITM     ",
+"tabname": "CRTNOBJTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 2
+}, 
+{
+"schema": "ITM     ",
+"tabname": "CSTMPRDCTDSGNRTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 4
+}, 
+{
+"schema": "ITM     ",
+"tabname": "CSTMPRDCTDSGNRTYP_HISTORYAPkOzps",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "CSTMPRDCTDSGNRTYP_HISTORYAPkOzpt",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "CSTMPRDCTTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 15
+}, 
+{
+"schema": "ITM     ",
+"tabname": "CSTMPRDCTTYP_HISTORYAM40xJs",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "CSTMPRDCTTYP_HISTORYAM40xJt",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "FREENOCHRGTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 2
+}, 
+{
+"schema": "ITM     ",
+"tabname": "FRGHTCLASSTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 18
+}, 
+{
+"schema": "ITM     ",
+"tabname": "FRGHTPCKNGTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 3
+}, 
+{
+"schema": "ITM     ",
+"tabname": "FRGHTTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 376
+}, 
+{
+"schema": "ITM     ",
+"tabname": "HZRDSTORGTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 9
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITM",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 45,
+"rows": 137534
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMATTR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 70498
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMATTRLANGVAR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 0
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMCLASS",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 17
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMCNTRY",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 37,
+"rows": 412602
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMCNTRYATTR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 2914281
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMCNTRYATTRLANGVAR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 259683
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMCNTRYKITCMPNT",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 16,
+"rows": 21744
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMCNTRYLBLTYPXREF",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 6681
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMCNTRYPHYSCLCHRTRSTC",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 772765
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMCRSPNDNGTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 8
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMDESC",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 18,
+"rows": 825204
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMDLVRYMETHDTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 2
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMFRGHTPCKNG",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 16,
+"rows": 627352
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMKITCMPNT",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 16,
+"rows": 7248
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMMSG",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 55487
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMMSGTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 2
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMMTRCEQVLATTR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 15,
+"rows": 32581
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMPCKNG",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 28,
+"rows": 860487
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMPCKNGCDTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 15
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMPCKNGRLSUBT",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 4
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMPCKNGRLTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 5
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMPCKNGTOITMRL",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 18,
+"rows": 0
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMPCKNGUSGTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 6
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMPCKNGUSGTYPXREF",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": 337794
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMPHYSCLCHRTRSTC",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 310
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMPHYSCLCHRTRSTCTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 24
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMPRECAUTNMSRTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 3
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMPRSHBLTYTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 4
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMRAWMTRL",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 0
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMRSTRCTN",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 1122
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMSLBLTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMSLITPERFTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 3
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMSTRCTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 3
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMSUB",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 622
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMTOITMRL",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 14,
+"rows": 37220
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMTOITMRLLCTN",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 18849
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMTOITMRLTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 16
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMUSGTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 4
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMWRNTY",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 15,
+"rows": 3575
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ITMWRNTYTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "LANGTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 3
+}, 
+{
+"schema": "ITM     ",
+"tabname": "LBLTMPLT",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 358
+}, 
+{
+"schema": "ITM     ",
+"tabname": "LBLTMPLTITMCNTRYXREF",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 15,
+"rows": 1074
+}, 
+{
+"schema": "ITM     ",
+"tabname": "LBLTMPLTITMCNTRYXREFLANGVAR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 1074
+}, 
+{
+"schema": "ITM     ",
+"tabname": "LBLTMPLTPATHTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 2
+}, 
+{
+"schema": "ITM     ",
+"tabname": "LBLTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 6
+}, 
+{
+"schema": "ITM     ",
+"tabname": "LCTN",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 10,
+"rows": 948361
+}, 
+{
+"schema": "ITM     ",
+"tabname": "LCTNNATRTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 4
+}, 
+{
+"schema": "ITM     ",
+"tabname": "MKTCLASS",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 14,
+"rows": 154
+}, 
+{
+"schema": "ITM     ",
+"tabname": "MKTGRP",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 13,
+"rows": 1580
+}, 
+{
+"schema": "ITM     ",
+"tabname": "MKTSGMNTTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 6
+}, 
+{
+"schema": "ITM     ",
+"tabname": "MKTSUBGRP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 14,
+"rows": 12419
+}, 
+{
+"schema": "ITM     ",
+"tabname": "MTRCEQVLATTRTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 59
+}, 
+{
+"schema": "ITM     ",
+"tabname": "NATNLMTRFRGHTCLASSTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 0
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ORIENTTNTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 4
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PLLTSIZTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 9
+}, 
+{
+"schema": "ITM     ",
+"tabname": "POPBOX",
+"type": "Table",
+"createdate": "2017-03-15" ,
+"colcount": 11,
+"rows": 5356
+}, 
+{
+"schema": "ITM     ",
+"tabname": "POPBOXCHLD",
+"type": "Table",
+"createdate": "2017-03-15" ,
+"colcount": 16,
+"rows": 58033
+}, 
+{
+"schema": "ITM     ",
+"tabname": "POPBOXCHLDLANGVAR",
+"type": "Table",
+"createdate": "2017-03-15" ,
+"colcount": 13,
+"rows": 116066
+}, 
+{
+"schema": "ITM     ",
+"tabname": "POPBOXLANGVAR",
+"type": "Table",
+"createdate": "2017-03-15" ,
+"colcount": 12,
+"rows": 0
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCT",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 18,
+"rows": 3797
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTATTR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 0
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTCNTRY",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 18,
+"rows": 11391
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTCNTRYATTR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 26822
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTCNTRYATTRLANGVAR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 19265
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTCNTRYMDFBLATTR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 13,
+"rows": 9040
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTCNTRYMDFBLATTRLANGVAR",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 12,
+"rows": 427
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTCNTRYPHYSCLCHRTRSTC",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 26008
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTDESC",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 18,
+"rows": 22782
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTMDFBLATTR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 0
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTMGR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 70
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTMGRTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 4
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTPHYSCLCHRTRSTC",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 0
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTSTS",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 3
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTTOITMRL",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 37
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTTOITMRLLCTN",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 2
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTTOPRDCTRL",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 125
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PRDCTTOPRDCTRLLCTN",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 16
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PSTLCD",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 947978
+}, 
+{
+"schema": "ITM     ",
+"tabname": "PSTLCDVLDTNMETHDTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 3
+}, 
+{
+"schema": "ITM     ",
+"tabname": "RAWMTRLTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 14
+}, 
+{
+"schema": "ITM     ",
+"tabname": "STABLZTNTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 3
+}, 
+{
+"schema": "ITM     ",
+"tabname": "STPRVNC",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 14,
+"rows": 120
+}, 
+{
+"schema": "ITM     ",
+"tabname": "SUBRSTRCTNTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 58
+}, 
+{
+"schema": "ITM     ",
+"tabname": "SUBRSTRCTNTYPLCTN",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 205
+}, 
+{
+"schema": "ITM     ",
+"tabname": "SYSOFMSRTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 2
+}, 
+{
+"schema": "ITM     ",
+"tabname": "ULINEACTVTYTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 11
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UNTOFMSRCNVRSNFCTR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 4
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UNTOFMSRLANGVAR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 50
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UNTOFMSRTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 14,
+"rows": 26
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_CNTRY",
+"type": "View",
+"createdate": "2016-11-23" ,
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_FRGHTTYP",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_IDENTITYC",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 3,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_IDESCWORK",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITEM_SERVICE_KEY",
+"type": "View",
+"createdate": "2017-04-26" ,
+"colcount": 3,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITM",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 41,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMATTR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMATTRLANGVAR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMCNTRY",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 33,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMCNTRYATTR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMCNTRYATTRLANGVAR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMCNTRYKITCMPNT",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMCNTRYLBLTYPXREF",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMCNTRYPHYSCLCHRTRSTC",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMDESC",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMFRGHTPCKNG",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMKITCMPNT",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMMSG",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMMTRCEQVLATTR",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMPCKNG",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 24,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMPCKNGTOITMRL",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMPCKNGUSGTYPXREF",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMPHYSCLCHRTRSTC",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMRAWMTRL",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMRSTRCTN",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMSUB",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 7,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMTOITMRL",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMTOITMRLLCTN",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_ITMWRNTY",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_LBLTMPLT",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_LBLTMPLTITMCNTRYXREF",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_LBLTMPLTITMCNTRYXREFLANGVAR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_LUW_TEST",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 6,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_MKTCLASS",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_MKTGRP",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_MKTSUBGRP",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_NATNLMTRFRGHTCLASSTYP",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_POPBOXCHLD",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_POPBOXCHLDLANGVAR",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_POPBOXLANGVAR",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCT",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTATTR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTCNTRY",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTCNTRYATTR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTCNTRYATTRLANGVAR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTCNTRYMDFBLATTR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTCNTRYMDFBLATTRLANGVAR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTCNTRYPHYSCLCHRTRSTC",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTDESC",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTMDFBLATTR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTMGR",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTPHYSCLCHRTRSTC",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTTOITMRL",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTTOITMRLLCTN",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTTOPRDCTRL",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRDCTTOPRDCTRLLCTN",
+"type": "View",
+"createdate": "2017-04-13" ,
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PRSN",
+"type": "View",
+"createdate": "2017-04-10" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_PSTLCD",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_STPRVNC",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_SUBRSTRCTNTYPLCTN",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_UNTOFMSRCNVRSNFCTR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_UNTOFMSRLANGVAR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_UNTOFMSRTYP",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_VIDEO",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_VIDEOITMCNTRYXREF",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_VIDEOITMCNTRYXREFLANGVAR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 9,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_VNDITM",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 20,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_VNDITMPCKNG",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_WEBCARTMSGITMCNTRYXREF",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 17,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_WEBCARTMSGLANGVAR",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 8,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "UVW_WEBITMDOCLCTN",
+"type": "View",
+"createdate": "2016-10-11" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VIDEO",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 17,
+"rows": 191
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VIDEOCTGRYTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 4
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VIDEOITMCNTRYLANGXREF",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 16,
+"rows": 12684
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VIDEOITMCNTRYXREF",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 15,
+"rows": 0
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VIDEOITMCNTRYXREFLANGVAR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 0
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VIDEOPRDCTCNTRYLANGXREF",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 16,
+"rows": 856
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VIDEOPRDCTCNTRYXREF",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 15,
+"rows": 0
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VIDEOPRDCTCNTRYXREFLANGVAR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 13,
+"rows": 0
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VLCTYTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 202
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VND",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 3355
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VNDITM",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 24,
+"rows": 242413
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VNDITMPCKNG",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 0
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ATTRTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 15,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_CNTRY",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 18,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_CNTRYOFORGNMRKTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_CONTNRTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_CRTNOBJTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_CSTMPRDCTDSGNRTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_CSTMPRDCTTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_FREENOCHRGTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_FRGHTCLASSTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_FRGHTPCKNGTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_FRGHTTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_HZRDSTORGTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITM",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 45,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMATTR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMATTRLANGVAR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMCLASS",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMCNTRY",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 37,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMCNTRYATTR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMCNTRYATTRLANGVAR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMCNTRYKITCMPNT",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 16,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMCNTRYLBLTYPXREF",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMCNTRYPHYSCLCHRTRSTC",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMCRSPNDNGTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMDESC",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 18,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMDLVRYMETHDTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMFRGHTPCKNG",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 16,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMKITCMPNT",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 16,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMMSG",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMMSGTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMMTRCEQVLATTR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 15,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMPCKNG",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 28,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMPCKNGCDTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMPCKNGRLSUBT",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMPCKNGRLTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMPCKNGTOITMRL",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 18,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMPCKNGUSGTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMPCKNGUSGTYPXREF",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMPHYSCLCHRTRSTC",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMPHYSCLCHRTRSTCTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMPRECAUTNMSRTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMPRSHBLTYTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMRAWMTRL",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMRSTRCTN",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMSLBLTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMSLITPERFTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMSTRCTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMSUB",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMTOITMRL",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMTOITMRLLCTN",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMTOITMRLTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMUSGTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMWRNTY",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 15,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ITMWRNTYTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_LANGTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_LBLTMPLT",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_LBLTMPLTITMCNTRYXREF",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 15,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_LBLTMPLTPATHTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_LBLTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_LCTN",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 10,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_LCTNNATRTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_MKTCLASS",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_MKTGRP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_MKTSGMNTTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_MKTSUBGRP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_MTRCEQVLATTRTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_NATNLMTRFRGHTCLASSTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ORIENTTNTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PLLTSIZTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_POPBOX",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_POPBOXCHLD",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 16,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_POPBOXCHLDLANGVAR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_POPBOXLANGVAR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCT",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 18,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTATTR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTCNTRY",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 18,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTCNTRYATTR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTCNTRYATTRLANGVAR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTCNTRYMDFBLATTR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTCNTRYPHYSCLCHRTRSTC",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTDESC",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 18,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTMDFBLATTR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTMGR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTMGRTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTPHYSCLCHRTRSTC",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTSTS",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTTOITMRL",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTTOITMRLLCTN",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTTOPRDCTRL",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PRDCTTOPRDCTRLLCTN",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PSTLCD",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_PSTLCDVLDTNMETHDTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_RAWMTRLTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_STABLZTNTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_STPRVNC",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_SUBRSTRCTNTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_SUBRSTRCTNTYPLCTN",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_SYSOFMSRTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_ULINEACTVTYTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_UNTOFMSRCNVRSNFCTR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_UNTOFMSRLANGVAR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_UNTOFMSRTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 14,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_VIDEO",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 17,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_VIDEOCTGRYTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_VIDEOITMCNTRYLANGXREF",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 16,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_VIDEOITMCNTRYXREF",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 15,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_VIDEOITMCNTRYXREFLANGVAR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 13,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_VIDEOPRDCTCNTRYLANGXREF",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 16,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_VIDEOPRDCTCNTRYXREF",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 15,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_VLCTYTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_VND",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_VNDITM",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 24,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_VNDITMPCKNG",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_WEBCARTMSG",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_WEBCARTMSGITMCNTRYXREF",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 22,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_WEBCARTMSGLANGVAR",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 12,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_WEBITMDOCLCTN",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 17,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "VW_WEBPBLSHTYP",
+"type": "View",
+"createdate": "2017-03-16" ,
+"colcount": 11,
+"rows": -1
+}, 
+{
+"schema": "ITM     ",
+"tabname": "WEBCARTMSG",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 1501
+}, 
+{
+"schema": "ITM     ",
+"tabname": "WEBCARTMSGITMCNTRYXREF",
+"type": "Table",
+"createdate": "2016-10-11" ,
+"colcount": 22,
+"rows": 26400
+}, 
+{
+"schema": "ITM     ",
+"tabname": "WEBCARTMSGLANGVAR",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 12,
+"rows": 3002
+}, 
+{
+"schema": "ITM     ",
+"tabname": "WEBITMDOCLCTN",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 17,
+"rows": 84420
+}, 
+{
+"schema": "ITM     ",
+"tabname": "WEBPBLSHTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 16
+}, 
+{
+"schema": "ITM     ",
+"tabname": "WHSERGN",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 19
+}, 
+{
+"schema": "ITM     ",
+"tabname": "WMSPRDCTTYP",
+"type": "Table",
+"createdate": "2017-02-09" ,
+"colcount": 11,
+"rows": 2
+}
+]
