@@ -16,10 +16,14 @@ var appfooter_component_1 = require("./components/appfooter/appfooter.component"
 var appmenu_component_1 = require("./components/appmenu/appmenu.component");
 var appsettings_component_1 = require("./components/appsettings/appsettings.component");
 var welcome_component_1 = require("./home/welcome.component");
-var wmsods_component_1 = require("./wmsods/wmsods.component");
+//import { wmsodsComponent } from './wmsods/wmsods.component';
+var database_component_1 = require("./database/database.component");
+var databaseheader_component_1 = require("./databaseheader/databaseheader.component");
 var schemaobjects_list_components_1 = require("./schemaobjects/schemaobjects-list.components");
 var schemaobjects_filter_pipe_1 = require("./schemaobjects/schemaobjects-filter.pipe");
 var schemaobjects_module_1 = require("./schemaobjects/schemaobjects.module");
+var schemaTabs_list_components_1 = require("./schemaTabs/schemaTabs-list.components");
+var schemaTabs_module_1 = require("./schemaTabs/schemaTabs.module");
 var tablecolumns_module_1 = require("./tablecolumns/tablecolumns.module");
 var tablecolumns_list_components_1 = require("./tablecolumns/tablecolumns-list.components");
 var tablecolumns_filter_pipe_1 = require("./tablecolumns/tablecolumns-filter.pipe");
@@ -40,12 +44,16 @@ AppModule = __decorate([
             router_1.RouterModule.forRoot([
                 { path: 'TableColumns', component: tablecolumns_list_components_1.tablecolumnsListComponent },
                 { path: 'TableViews', component: tableviews_list_components_1.tableviewsListComponent },
-                { path: 'wmsods', component: wmsods_component_1.wmsodsComponent },
+                { path: 'SchemaObjects', component: schemaobjects_list_components_1.schemaobjectsListComponent },
+                //     { path: 'wmsods', component: wmsodsComponent },
+                { path: 'database/:id', component: database_component_1.databaseComponent },
+                { path: 'database/:id/:id2', component: database_component_1.databaseComponent },
                 { path: 'welcome', component: welcome_component_1.WelcomeComponent },
                 { path: '', redirectTo: 'welcome', pathMatch: 'full' },
                 { path: '**', redirectTo: 'welcome', pathMatch: 'full' }
             ]),
             schemaobjects_module_1.SchemaObjectsModule,
+            schemaTabs_module_1.SchemaTabsModule,
             tablecolumns_module_1.TableColumnsModule,
             tableviews_module_1.TableViewsModule
         ],
@@ -55,9 +63,12 @@ AppModule = __decorate([
             appfooter_component_1.AppfooterComponent,
             appmenu_component_1.AppmenuComponent,
             appsettings_component_1.AppsettingsComponent,
+            schemaTabs_list_components_1.schemaTabsListComponent,
             schemaobjects_list_components_1.schemaobjectsListComponent,
             schemaobjects_filter_pipe_1.schemaobjectsFilterPipe,
-            wmsods_component_1.wmsodsComponent,
+            //  wmsodsComponent,
+            database_component_1.databaseComponent,
+            databaseheader_component_1.databaseheaderComponent,
             welcome_component_1.WelcomeComponent,
             tablecolumns_list_components_1.tablecolumnsListComponent,
             tablecolumns_filter_pipe_1.tablecolumnsFilterPipe,
